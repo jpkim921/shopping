@@ -1,0 +1,4953 @@
+{
+	"data": {
+		"search": {
+			"search_suggestions": [
+				"unsweetened almond milk",
+				"horizon milk",
+				"almond milk yogurt",
+				"natural charcoal briquettes",
+				"organic whole milk yogurt",
+				"almond milk eggnog",
+				"lactose free protein shake",
+				"horizon organic whole milk",
+				"organic vanilla soy milk",
+				"organic brown rice",
+				"nestle nestum cereal",
+				"horizon organic milk",
+				"organic almond flour",
+				"unsweetened coconut milk",
+				"one handed pepper mill",
+				"almond oil grocery store",
+				"mini pepper salt mill",
+				"organic milk brands",
+				"white salt pepper mill",
+				"organic whole milk price"
+			],
+			"search_recommendations": {
+				"related_categories": [
+					{
+						"url": "/c/toddler-beds-nursery-furniture-baby/karla-dubois/-/N-5xtg9Zq643leifzov",
+						"title": " toddler beds"
+					},
+					{
+						"url": "/c/kids-beds-furniture-home/karla-dubois/-/N-5xtxcZq643leifzov",
+						"title": " kids' beds"
+					},
+					{
+						"url": "/c/milk-dairy-grocery/-/N-5xszh",
+						"title": "milk & milk substitutes"
+					},
+					{
+						"url": "/c/vegan-foods-specialty-diets-grocery/5/-/N-n14zsZ5zkq6",
+						"title": "5 Star "
+					},
+					{
+						"url": "/c/best-beauty-products/carol-s-daughter/-/N-uve8tZ55m2h",
+						"title": "Carol S Daughter "
+					},
+					{
+						"url": "/c/grocery/-/N-5xt1a",
+						"title": "grocery & essentials"
+					}
+				],
+				"related_queries": [
+					{
+						"url": "/s/almond+milk+eggnog",
+						"title": "almond milk eggnog"
+					},
+					{
+						"url": "/s/organic+vanilla+soy+milk",
+						"title": "organic vanilla soy milk"
+					},
+					{
+						"url": "/s/unsweetened+coconut+milk",
+						"title": "unsweetened coconut milk"
+					},
+					{
+						"url": "/s/vo5+moisture+milk",
+						"title": "vo5 moisture milk"
+					},
+					{
+						"url": "/s/organic+milk+brands",
+						"title": "organic milk brands"
+					},
+					{
+						"url": "/s/carols+daughter+sacred+tiare",
+						"title": "carols daughter sacred tiare"
+					},
+					{
+						"url": "/s/evenflo+nursing+bags",
+						"title": "evenflo nursing bags"
+					},
+					{
+						"url": "/s/fragrances+red+revlon",
+						"title": "fragrances red revlon"
+					}
+				]
+			},
+			"search_response": {
+				"facet_list": [
+					{
+						"facet_id": "d_categorytaxonomy",
+						"type": "url",
+						"display_name": "Category",
+						"expand": true,
+						"options": [
+							{
+								"display_name": "Grocery",
+								"url": "keyword=almond+milk&sort_by=relevance&count=24&offset=0&category=5xt1a",
+								"value": "5xt1a"
+							},
+							{
+								"display_name": "Holiday Shop",
+								"url": "keyword=almond+milk&sort_by=relevance&count=24&offset=0&category=4ydi5",
+								"value": "4ydi5"
+							},
+							{
+								"display_name": "Beauty",
+								"url": "keyword=almond+milk&sort_by=relevance&count=24&offset=0&category=55r1x",
+								"value": "55r1x"
+							},
+							{
+								"display_name": "Personal Care",
+								"url": "keyword=almond+milk&sort_by=relevance&count=24&offset=0&category=5xtzq",
+								"value": "5xtzq"
+							},
+							{
+								"display_name": "Home",
+								"url": "keyword=almond+milk&sort_by=relevance&count=24&offset=0&category=5xtvd",
+								"value": "5xtvd"
+							}
+						]
+					},
+					{
+						"facet_id": "d_deals",
+						"type": "checkbox",
+						"display_name": "Deals",
+						"expand": true,
+						"options": [
+							{
+								"display_name": "All Deals",
+								"id": "akkos",
+								"url": "d_deals:all deals",
+								"value": "all deals"
+							},
+							{
+								"display_name": "Buy and Save",
+								"id": "55e6t",
+								"url": "d_deals:buy and save",
+								"value": "buy and save"
+							},
+							{
+								"display_name": "Sale",
+								"id": "5tdv0",
+								"url": "d_deals:sale",
+								"value": "sale"
+							},
+							{
+								"display_name": "Weekly Ad",
+								"id": "55dgn",
+								"url": "d_deals:weekly ad",
+								"value": "weekly ad"
+							}
+						]
+					},
+					{
+						"facet_id": "d_pricerange",
+						"type": "price",
+						"display_name": "Price",
+						"expand": true,
+						"options": [
+							{
+								"display_name": "$0 &nbsp;&ndash;&nbsp; $15",
+								"id": "5zja2",
+								"url": "d_pricerange:0000 $0 - $15",
+								"value": "0000 $0 - $15"
+							}
+						]
+					},
+					{
+						"facet_id": "d_sellers_all",
+						"type": "checkbox",
+						"display_name": "Sold by",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Target",
+								"id": "dq4mn",
+								"url": "d_sellers_all:0000 target",
+								"value": "0000 target"
+							}
+						]
+					},
+					{
+						"facet_id": "d_channel",
+						"type": "checkbox",
+						"display_name": "Shipping & Pickup",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "buy online & pick up",
+								"id": "5zl7w",
+								"url": "d_channel:buy online & pick up",
+								"value": "buy online & pick up"
+							},
+							{
+								"display_name": "in stores",
+								"id": "5zkty",
+								"url": "d_channel:in stores",
+								"value": "in stores"
+							},
+							{
+								"display_name": "shipping",
+								"id": "5zktx",
+								"url": "d_channel:shipping",
+								"value": "shipping"
+							},
+							{
+								"display_name": "include out of stock",
+								"id": "fwtfr",
+								"url": "d_channel:include out of stock",
+								"value": "include out of stock"
+							},
+							{
+								"display_name": "same day delivery",
+								"id": "cl92v",
+								"url": "d_channel:same day delivery",
+								"value": "same day delivery"
+							}
+						]
+					},
+					{
+						"facet_id": "d_brand_all",
+						"type": "checkbox",
+						"display_name": "Brand",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Almond Breeze",
+								"id": "kirbx",
+								"url": "d_brand_all:almond breeze",
+								"value": "almond breeze"
+							},
+							{
+								"display_name": "Blue Diamond",
+								"id": "56cdh",
+								"url": "d_brand_all:blue diamond",
+								"value": "blue diamond"
+							},
+							{
+								"display_name": "Blue Diamond Almonds",
+								"id": "cw0sj",
+								"url": "d_brand_all:blue diamond almonds",
+								"value": "blue diamond almonds"
+							},
+							{
+								"display_name": "Burt's Bees",
+								"id": "5xwcx",
+								"url": "d_brand_all:burt's bees",
+								"value": "burt's bees"
+							},
+							{
+								"display_name": "Califia Farms",
+								"id": "b5gm6",
+								"url": "d_brand_all:califia farms",
+								"value": "califia farms"
+							},
+							{
+								"display_name": "Chobani",
+								"id": "56dov",
+								"url": "d_brand_all:chobani",
+								"value": "chobani"
+							},
+							{
+								"display_name": "Coffee mate",
+								"id": "qwnw2",
+								"url": "d_brand_all:coffee mate",
+								"value": "coffee mate"
+							},
+							{
+								"display_name": "Dove",
+								"id": "p2d5p",
+								"url": "d_brand_all:dove",
+								"value": "dove"
+							},
+							{
+								"display_name": "Good & Gather",
+								"id": "yfqzk",
+								"url": "d_brand_all:good & gather",
+								"value": "good & gather"
+							},
+							{
+								"display_name": "Horizon",
+								"id": "5e90h",
+								"url": "d_brand_all:horizon",
+								"value": "horizon"
+							},
+							{
+								"display_name": "Kite Hill",
+								"id": "47s6w",
+								"url": "d_brand_all:kite hill",
+								"value": "kite hill"
+							},
+							{
+								"display_name": "M&M's",
+								"id": "560n4",
+								"url": "d_brand_all:m&m's",
+								"value": "m&m's"
+							},
+							{
+								"display_name": "Milkadamia",
+								"id": "p8pg1",
+								"url": "d_brand_all:milkadamia",
+								"value": "milkadamia"
+							},
+							{
+								"display_name": "Natural Bliss",
+								"id": "q643lest7bx",
+								"url": "d_brand_all:natural bliss",
+								"value": "natural bliss"
+							},
+							{
+								"display_name": "Nivea",
+								"id": "5t8a4",
+								"url": "d_brand_all:nivea",
+								"value": "nivea"
+							},
+							{
+								"display_name": "OATLY!",
+								"id": "y86hn",
+								"url": "d_brand_all:oatly!",
+								"value": "oatly!"
+							},
+							{
+								"display_name": "Orgain",
+								"id": "4ydsz",
+								"url": "d_brand_all:orgain",
+								"value": "orgain"
+							},
+							{
+								"display_name": "ORLY",
+								"id": "amcrc",
+								"url": "d_brand_all:orly",
+								"value": "orly"
+							},
+							{
+								"display_name": "Pacific",
+								"id": "5611z",
+								"url": "d_brand_all:pacific",
+								"value": "pacific"
+							},
+							{
+								"display_name": "Pacific Foods",
+								"id": "rb1tv",
+								"url": "d_brand_all:pacific foods",
+								"value": "pacific foods"
+							},
+							{
+								"display_name": "Raw Sugar",
+								"id": "4yjaw",
+								"url": "d_brand_all:raw sugar",
+								"value": "raw sugar"
+							},
+							{
+								"display_name": "Reddi-wip",
+								"id": "56dp9",
+								"url": "d_brand_all:reddi-wip",
+								"value": "reddi-wip"
+							},
+							{
+								"display_name": "Rice Dream",
+								"id": "5660c",
+								"url": "d_brand_all:rice dream",
+								"value": "rice dream"
+							},
+							{
+								"display_name": "Ripple",
+								"id": "i6agp",
+								"url": "d_brand_all:ripple",
+								"value": "ripple"
+							},
+							{
+								"display_name": "Silk",
+								"id": "551oe",
+								"url": "d_brand_all:silk",
+								"value": "silk"
+							},
+							{
+								"display_name": "So Delicious",
+								"id": "4ujaq",
+								"url": "d_brand_all:so delicious",
+								"value": "so delicious"
+							},
+							{
+								"display_name": "Target Brands",
+								"id": "xmf9o",
+								"url": "d_brand_all:target brands",
+								"value": "target brands"
+							},
+							{
+								"display_name": "Wondershop",
+								"id": "st5r5",
+								"url": "d_brand_all:wondershop",
+								"value": "wondershop"
+							}
+						]
+					},
+					{
+						"facet_id": "d_milk_type",
+						"type": "checkbox",
+						"display_name": "Milk Type",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Almond",
+								"id": "5zlkn",
+								"url": "d_milk_type:almond",
+								"value": "almond"
+							},
+							{
+								"display_name": "Cashew",
+								"id": "5zlko",
+								"url": "d_milk_type:cashew",
+								"value": "cashew"
+							},
+							{
+								"display_name": "Coconut",
+								"id": "5zlkp",
+								"url": "d_milk_type:coconut",
+								"value": "coconut"
+							},
+							{
+								"display_name": "Does Not Contain Milk Fat",
+								"id": "v4re4",
+								"url": "d_milk_type:does not contain milk fat",
+								"value": "does not contain milk fat"
+							},
+							{
+								"display_name": "Oats",
+								"id": "v0szw",
+								"url": "d_milk_type:oats",
+								"value": "oats"
+							},
+							{
+								"display_name": "Peas",
+								"id": "tgj74",
+								"url": "d_milk_type:peas",
+								"value": "peas"
+							},
+							{
+								"display_name": "Plant Oil",
+								"id": "5zlku",
+								"url": "d_milk_type:plant oil",
+								"value": "plant oil"
+							},
+							{
+								"display_name": "Rice",
+								"id": "5zlkv",
+								"url": "d_milk_type:rice",
+								"value": "rice"
+							},
+							{
+								"display_name": "Soy",
+								"id": "5zlkx",
+								"url": "d_milk_type:soy",
+								"value": "soy"
+							}
+						]
+					},
+					{
+						"facet_id": "d_item_type_all",
+						"type": "checkbox",
+						"display_name": "Type",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Body Washes",
+								"id": "tei9a",
+								"url": "d_item_type_all:body washes",
+								"value": "body washes"
+							},
+							{
+								"display_name": "Coffee Creamer",
+								"id": "6ii8w",
+								"url": "d_item_type_all:coffee creamer",
+								"value": "coffee creamer"
+							},
+							{
+								"display_name": "Coffee Drinks",
+								"id": "kcwsd",
+								"url": "d_item_type_all:coffee drinks",
+								"value": "coffee drinks"
+							},
+							{
+								"display_name": "Cold Brew Coffee",
+								"id": "80eop",
+								"url": "d_item_type_all:cold brew coffee",
+								"value": "cold brew coffee"
+							},
+							{
+								"display_name": "Cream Cheese",
+								"id": "tq397",
+								"url": "d_item_type_all:cream cheese",
+								"value": "cream cheese"
+							},
+							{
+								"display_name": "Dairy-Free Cheese",
+								"id": "l45dd",
+								"url": "d_item_type_all:dairy-free cheese",
+								"value": "dairy-free cheese"
+							},
+							{
+								"display_name": "Hair Conditioners",
+								"id": "2zd41",
+								"url": "d_item_type_all:hair conditioners",
+								"value": "hair conditioners"
+							},
+							{
+								"display_name": "Hair Shampoos",
+								"id": "lga4c",
+								"url": "d_item_type_all:hair shampoos",
+								"value": "hair shampoos"
+							},
+							{
+								"display_name": "Hand and Body Lotions",
+								"id": "xvm4",
+								"url": "d_item_type_all:hand and body lotions",
+								"value": "hand and body lotions"
+							},
+							{
+								"display_name": "Hand Soaps",
+								"id": "4ceek",
+								"url": "d_item_type_all:hand soaps",
+								"value": "hand soaps"
+							},
+							{
+								"display_name": "Milk Substitutes",
+								"id": "h4s22",
+								"url": "d_item_type_all:milk substitutes",
+								"value": "milk substitutes"
+							},
+							{
+								"display_name": "Nail Polish",
+								"id": "rih3o",
+								"url": "d_item_type_all:nail polish",
+								"value": "nail polish"
+							},
+							{
+								"display_name": "Non-dairy Yogurt",
+								"id": "rukna",
+								"url": "d_item_type_all:non-dairy yogurt",
+								"value": "non-dairy yogurt"
+							},
+							{
+								"display_name": "Tree Ornaments",
+								"id": "dh3rg",
+								"url": "d_item_type_all:tree ornaments",
+								"value": "tree ornaments"
+							},
+							{
+								"display_name": "Whipped Toppings",
+								"id": "buh1o",
+								"url": "d_item_type_all:whipped toppings",
+								"value": "whipped toppings"
+							}
+						]
+					},
+					{
+						"facet_id": "d_dietary_needs",
+						"type": "checkbox",
+						"display_name": "Dietary Needs",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Organic",
+								"id": "s2ozl",
+								"url": "d_dietary_needs:0000 organic",
+								"value": "0000 organic"
+							},
+							{
+								"display_name": "Gluten-free",
+								"id": "b8gba",
+								"url": "d_dietary_needs:0001 gluten-free",
+								"value": "0001 gluten-free"
+							},
+							{
+								"display_name": "Ketogenic",
+								"id": "94abm",
+								"url": "d_dietary_needs:0002 ketogenic",
+								"value": "0002 ketogenic"
+							},
+							{
+								"display_name": "Vegan",
+								"id": "5zlg9",
+								"url": "d_dietary_needs:0003 vegan",
+								"value": "0003 vegan"
+							},
+							{
+								"display_name": "Vegetarian",
+								"id": "76zjq",
+								"url": "d_dietary_needs:0004 vegetarian",
+								"value": "0004 vegetarian"
+							},
+							{
+								"display_name": "Caffeine-free",
+								"id": "4wmnq",
+								"url": "d_dietary_needs:0006 caffeine-free",
+								"value": "0006 caffeine-free"
+							},
+							{
+								"display_name": "Dash",
+								"id": "5yezs",
+								"url": "d_dietary_needs:0008 dash",
+								"value": "0008 dash"
+							},
+							{
+								"display_name": "Does Not Contain Dairy",
+								"id": "oomgw",
+								"url": "d_dietary_needs:0009 does not contain dairy",
+								"value": "0009 does not contain dairy"
+							},
+							{
+								"display_name": "Does Not Contain Egg",
+								"id": "72t0u",
+								"url": "d_dietary_needs:0010 does not contain egg",
+								"value": "0010 does not contain egg"
+							},
+							{
+								"display_name": "Does Not Contain Peanuts",
+								"id": "ra41v",
+								"url": "d_dietary_needs:0012 does not contain peanuts",
+								"value": "0012 does not contain peanuts"
+							},
+							{
+								"display_name": "Does Not Contain Soy",
+								"id": "beu0f",
+								"url": "d_dietary_needs:0014 does not contain soy",
+								"value": "0014 does not contain soy"
+							},
+							{
+								"display_name": "Does Not Contain Tree Nuts",
+								"id": "mxx6n",
+								"url": "d_dietary_needs:0015 does not contain tree nuts",
+								"value": "0015 does not contain tree nuts"
+							},
+							{
+								"display_name": "Halal",
+								"id": "3a3nc",
+								"url": "d_dietary_needs:0020 halal",
+								"value": "0020 halal"
+							},
+							{
+								"display_name": "Kosher",
+								"id": "5zlgb",
+								"url": "d_dietary_needs:0023 kosher",
+								"value": "0023 kosher"
+							},
+							{
+								"display_name": "Lactose Free",
+								"id": "e5hem",
+								"url": "d_dietary_needs:0024 lactose free",
+								"value": "0024 lactose free"
+							},
+							{
+								"display_name": "Mediterranean",
+								"id": "7fglg",
+								"url": "d_dietary_needs:0028 mediterranean",
+								"value": "0028 mediterranean"
+							},
+							{
+								"display_name": "No Added Antibiotics",
+								"id": "w05zt",
+								"url": "d_dietary_needs:0029 no added antibiotics",
+								"value": "0029 no added antibiotics"
+							},
+							{
+								"display_name": "No Added Sugar",
+								"id": "y4fzi",
+								"url": "d_dietary_needs:0030 no added sugar",
+								"value": "0030 no added sugar"
+							},
+							{
+								"display_name": "No Artificial Colors",
+								"id": "bsqti",
+								"url": "d_dietary_needs:0032 no artificial colors",
+								"value": "0032 no artificial colors"
+							},
+							{
+								"display_name": "No Artificial Flavors",
+								"id": "1ss9a",
+								"url": "d_dietary_needs:0033 no artificial flavors",
+								"value": "0033 no artificial flavors"
+							},
+							{
+								"display_name": "No Artificial Flavors, Colors or Preservatives",
+								"id": "eix2t",
+								"url": "d_dietary_needs:0034 no artificial flavors, colors or preservatives",
+								"value": "0034 no artificial flavors, colors or preservatives"
+							},
+							{
+								"display_name": "No Artificial Sweeteners",
+								"id": "wjj2k",
+								"url": "d_dietary_needs:0035 no artificial sweeteners",
+								"value": "0035 no artificial sweeteners"
+							},
+							{
+								"display_name": "No High Fructose Corn Syrup",
+								"id": "nnk9e",
+								"url": "d_dietary_needs:0036 no high fructose corn syrup",
+								"value": "0036 no high fructose corn syrup"
+							},
+							{
+								"display_name": "Non-GMO",
+								"id": "sjhan",
+								"url": "d_dietary_needs:0038 non-gmo",
+								"value": "0038 non-gmo"
+							},
+							{
+								"display_name": "Plant-based",
+								"id": "7vn3n",
+								"url": "d_dietary_needs:0041 plant-based",
+								"value": "0041 plant-based"
+							},
+							{
+								"display_name": "Soy-based",
+								"id": "3cda9",
+								"url": "d_dietary_needs:0044 soy-based",
+								"value": "0044 soy-based"
+							},
+							{
+								"display_name": "Sugar Free",
+								"id": "idmd0",
+								"url": "d_dietary_needs:0045 sugar free",
+								"value": "0045 sugar free"
+							}
+						]
+					},
+					{
+						"facet_id": "d_flavor_all",
+						"type": "checkbox",
+						"display_name": "Flavor",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Almond",
+								"id": "55k14",
+								"url": "d_flavor_all:almond",
+								"value": "almond"
+							},
+							{
+								"display_name": "Butter",
+								"id": "55k68",
+								"url": "d_flavor_all:butter",
+								"value": "butter"
+							},
+							{
+								"display_name": "Caramel",
+								"id": "55k77",
+								"url": "d_flavor_all:caramel",
+								"value": "caramel"
+							},
+							{
+								"display_name": "Chocolate",
+								"id": "55k7d",
+								"url": "d_flavor_all:chocolate",
+								"value": "chocolate"
+							},
+							{
+								"display_name": "Cocoa",
+								"id": "5oaiu",
+								"url": "d_flavor_all:cocoa",
+								"value": "cocoa"
+							},
+							{
+								"display_name": "Coconut",
+								"id": "55k5g",
+								"url": "d_flavor_all:coconut",
+								"value": "coconut"
+							},
+							{
+								"display_name": "Hazelnut",
+								"id": "5sg0y",
+								"url": "d_flavor_all:hazelnut",
+								"value": "hazelnut"
+							},
+							{
+								"display_name": "Macadamia Nut",
+								"id": "55mdw",
+								"url": "d_flavor_all:macadamia nut",
+								"value": "macadamia nut"
+							},
+							{
+								"display_name": "Milk Chocolate",
+								"id": "qoint",
+								"url": "d_flavor_all:milk chocolate",
+								"value": "milk chocolate"
+							},
+							{
+								"display_name": "Mint",
+								"id": "55jvb",
+								"url": "d_flavor_all:mint",
+								"value": "mint"
+							},
+							{
+								"display_name": "Mocha",
+								"id": "4y3ci",
+								"url": "d_flavor_all:mocha",
+								"value": "mocha"
+							},
+							{
+								"display_name": "Pumpkin",
+								"id": "55k5d",
+								"url": "d_flavor_all:pumpkin",
+								"value": "pumpkin"
+							},
+							{
+								"display_name": "Pumpkin Spice",
+								"id": "am6rq",
+								"url": "d_flavor_all:pumpkin spice",
+								"value": "pumpkin spice"
+							},
+							{
+								"display_name": "Strawberry",
+								"id": "55k7f",
+								"url": "d_flavor_all:strawberry",
+								"value": "strawberry"
+							},
+							{
+								"display_name": "Sweet Cream",
+								"id": "558pc",
+								"url": "d_flavor_all:sweet cream",
+								"value": "sweet cream"
+							},
+							{
+								"display_name": "Unflavored",
+								"id": "5scxi",
+								"url": "d_flavor_all:unflavored",
+								"value": "unflavored"
+							},
+							{
+								"display_name": "Vanilla",
+								"id": "55k6l",
+								"url": "d_flavor_all:vanilla",
+								"value": "vanilla"
+							}
+						]
+					},
+					{
+						"facet_id": "d_formula_features",
+						"type": "checkbox",
+						"display_name": "Formula Features",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Lactose Free",
+								"id": "wwngcvmk2gv",
+								"url": "d_formula_features:lactose free",
+								"value": "lactose free"
+							},
+							{
+								"display_name": "Non-GMO",
+								"id": "wwngcv83kwo",
+								"url": "d_formula_features:non-gmo",
+								"value": "non-gmo"
+							},
+							{
+								"display_name": "Organic Certified",
+								"id": "wwngcv5zlhz",
+								"url": "d_formula_features:organic certified",
+								"value": "organic certified"
+							},
+							{
+								"display_name": "Plant-Based",
+								"id": "wwngcvn5uq0",
+								"url": "d_formula_features:plant-based",
+								"value": "plant-based"
+							},
+							{
+								"display_name": "Soy-Based",
+								"id": "wwngcv4ukw7",
+								"url": "d_formula_features:soy-based",
+								"value": "soy-based"
+							}
+						]
+					},
+					{
+						"facet_id": "d_health_facts_all",
+						"type": "checkbox",
+						"display_name": "Health Facts",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Aluminum-free",
+								"id": "76mue",
+								"url": "d_health_facts_all:aluminum-free",
+								"value": "aluminum-free"
+							},
+							{
+								"display_name": "Contains Coconut",
+								"id": "mnhe3",
+								"url": "d_health_facts_all:contains coconut",
+								"value": "contains coconut"
+							},
+							{
+								"display_name": "Dye-free",
+								"id": "xc754",
+								"url": "d_health_facts_all:dye-free",
+								"value": "dye-free"
+							},
+							{
+								"display_name": "Formaldehyde-free",
+								"id": "vvfxl",
+								"url": "d_health_facts_all:formaldehyde-free",
+								"value": "formaldehyde-free"
+							},
+							{
+								"display_name": "Gluten-free",
+								"id": "vsk4f",
+								"url": "d_health_facts_all:gluten-free",
+								"value": "gluten-free"
+							},
+							{
+								"display_name": "Paraben-free",
+								"id": "jbuij",
+								"url": "d_health_facts_all:paraben-free",
+								"value": "paraben-free"
+							},
+							{
+								"display_name": "Phthalate-free",
+								"id": "vzmfw",
+								"url": "d_health_facts_all:phthalate-free",
+								"value": "phthalate-free"
+							},
+							{
+								"display_name": "Silicone-free",
+								"id": "d9ehd",
+								"url": "d_health_facts_all:silicone-free",
+								"value": "silicone-free"
+							},
+							{
+								"display_name": "Sodium Lauryl Sulfate-free",
+								"id": "mope0",
+								"url": "d_health_facts_all:sodium lauryl sulfate-free",
+								"value": "sodium lauryl sulfate-free"
+							},
+							{
+								"display_name": "Sulfate-free",
+								"id": "1qauc",
+								"url": "d_health_facts_all:sulfate-free",
+								"value": "sulfate-free"
+							},
+							{
+								"display_name": "Target Clean",
+								"id": "ezchc",
+								"url": "d_health_facts_all:target clean",
+								"value": "target clean"
+							},
+							{
+								"display_name": "Vegan",
+								"id": "2lftp",
+								"url": "d_health_facts_all:vegan",
+								"value": "vegan"
+							}
+						]
+					},
+					{
+						"facet_id": "d_product_form",
+						"type": "checkbox",
+						"display_name": "Product Form",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Cream",
+								"id": "55iyo",
+								"url": "d_product_form:cream",
+								"value": "cream"
+							},
+							{
+								"display_name": "Foam",
+								"id": "56coh",
+								"url": "d_product_form:foam",
+								"value": "foam"
+							},
+							{
+								"display_name": "Liquid",
+								"id": "56cpg",
+								"url": "d_product_form:liquid",
+								"value": "liquid"
+							},
+							{
+								"display_name": "Lotion",
+								"id": "56cpm",
+								"url": "d_product_form:lotion",
+								"value": "lotion"
+							}
+						]
+					},
+					{
+						"facet_id": "d_hair_type",
+						"type": "checkbox",
+						"display_name": "Hair Type",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "All Hair Types",
+								"id": "55k9h",
+								"url": "d_hair_type:all hair types",
+								"value": "all hair types"
+							}
+						]
+					},
+					{
+						"facet_id": "d_yogurt_style",
+						"type": "checkbox",
+						"display_name": "Yogurt Style",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Traditional",
+								"id": "9109alaeulb",
+								"url": "d_yogurt_style:traditional",
+								"value": "traditional"
+							}
+						]
+					}
+				],
+				"visual_facet_list": [
+					{
+						"facet_id": "d_brand_all",
+						"type": "checkbox",
+						"display_name": "Brand",
+						"expand": false,
+						"options": [
+							{
+								"display_name": "Califia Farms",
+								"canonical_name": "califia-farms",
+								"id": "b5gm6",
+								"source": "WHITELIST",
+								"image_url": "https://target.scene7.com/is/image/Target/GUEST_5741ffef-3dc2-4399-a1d1-12d115467036",
+								"url": "d_brand_all:califia farms",
+								"value": "califia farms"
+							},
+							{
+								"display_name": "Silk",
+								"canonical_name": "silk",
+								"id": "551oe",
+								"source": "WHITELIST",
+								"image_url": "https://target.scene7.com/is/image/Target/GUEST_1013e04d-6bd5-4dad-a610-d35199f8e62f",
+								"url": "d_brand_all:silk",
+								"value": "silk"
+							},
+							{
+								"display_name": "Good & Gather",
+								"canonical_name": "good-gather",
+								"id": "yfqzk",
+								"source": "WHITELIST",
+								"image_url": "https://target.scene7.com/is/image/Target/GUEST_b47383f1-3b70-4a97-8475-230102ef0545",
+								"url": "d_brand_all:good & gather",
+								"value": "good & gather"
+							},
+							{
+								"display_name": "Almond Breeze",
+								"canonical_name": "almond-breeze",
+								"id": "kirbx",
+								"source": "WHITELIST",
+								"image_url": "https://target.scene7.com/is/image/Target/GUEST_8addaf9d-1689-4c5f-aee1-5568db0b6b76",
+								"url": "d_brand_all:almond breeze",
+								"value": "almond breeze"
+							}
+						]
+					}
+				],
+				"metadata": {
+					"response_ids": [
+						"albus-b48f46d8-0184-1000-8004-52bd2449f09f",
+						"search-6d256099-32e3-4916-a45c-ebe156f42e26"
+					],
+					"count": 24,
+					"current_page": 1,
+					"keyword": "almond milk",
+					"offset": 0,
+					"sort_by": "relevance",
+					"total_pages": 5,
+					"total_results": 106
+				},
+				"sort_options": [
+					{
+						"name": "relevance",
+						"value": "relevance"
+					},
+					{
+						"name": "Featured",
+						"value": "Featured"
+					},
+					{
+						"name": "PriceLow",
+						"value": "price-low to high"
+					},
+					{
+						"name": "PriceHigh",
+						"value": "price-high to low"
+					},
+					{
+						"name": "RatingHigh",
+						"value": "average ratings"
+					},
+					{
+						"name": "bestselling",
+						"value": "best seller"
+					},
+					{
+						"name": "newest",
+						"value": "newest"
+					}
+				]
+			},
+			"products": [
+				{
+					"__typename": "ProductSummary",
+					"tcin": "47540392",
+					"original_tcin": "47540392",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/califia-farms-unsweetened-almond-milk-48-fl-oz/-/A-47540392",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_680e9aa5-4f71-4cec-b402-717777847892",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_1a7966b1-0f87-4025-9108-27748c8d2308"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_e00c0543-c18c-4299-8d6f-14a247c15e4b_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0181",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Califia Farms Unsweetened Almond Milk - 48 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Other Tree Nuts",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified, Vegan, Kosher",
+								"<B>Features:</B> Non-GMO, Dairy Free, Lactose Free, Soy-Free, No Added MSG, Vegan",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Pre-package preparation:</B> Pasteurized",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic",
+								"<B>Country of Origin:</B> United States"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"SMOOTH & CREAMY: Unsweetened Almondmilk is smooth and creamy with 0g of sugar per serving, perfect for all your plant milk needs.",
+									"COOKING & BAKING: Unsweetened Almondmilk is perfect for all culinary applications from savory recipes to baked treats. Pour over cereal, blend into smoothies, add to coffee, or drink it straight from a glass. This plant milk is deliciously versatile.",
+									"EXCELLENT SOURCE OF CALCIUM: Unsweetened Almondmilk is an excellent source of calcium. Plus it's only 35 calories and 0g of sugar per serving.",
+									"SIMPLE PLANT-BASED INGREDIENTS: Califia Farms plant milks are made with plant-based, dairy-free ingredients that are Non-GMO Certified, Kosher, vegan, and free from carrageenan.",
+									"DELICIOUSLY UNSWEETENED: Almond milk that's creamy and delightfully drinkable, just without the sugar. Zero grams of sugar per serving to be exact. It's plant-based, dairy-free, and totally delicious. Pure and simple."
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "CALIFIA FARMS LP",
+								"id": "1288203"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/califia-farms/-/N-b5gm6",
+							"linking_id": "b5gm6",
+							"name": "Califia Farms"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$4.29",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.44,
+								"count": 454,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3.81
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.71
+									}
+								]
+							}
+						}
+					},
+					"is_sponsored_sku": true,
+					"sponsored_ad": {
+						"ad_source": "criteo",
+						"click_beacon": "//b.va.us.criteo.com/rm?rm_e=fkBCzzfy0oejX1f2JzfW3QfyHanY9eftlGb9UhG0kPfuYHT_El0Orc6nQcSFu8AcHxEzY6FRzMsMdrMO_YGxV6qa8GZf4RbaX75DpRQrjuWf24N0Wi4Gg0BqKdVWiWpu4hUSmPsS1-VrsrNtyHsaLueGu_QJk27atMBqJWT30FqU_ItAGG3XgQ0R0eARzgozXLB68z6vH4F4LG02QuT10JB4XnAI-Crhw3tth0rQrC_ahy0KCQzW2a008qrICj4PEhuUZpcDigg8nOzB4Vlg2ygPvW7ev0m3GxpdadSJ3-DEPCXmLMh67m_1S2bnsaic",
+						"click_id": "lsze5PLAz0iix5QVXs1RdQ_RM",
+						"click_token": "fkBCzzfy0oejX1f2JzfW3QfyHanY9eftlGb9UhG0kPfuYHT_El0Orc6nQcSFu8AcHxEzY6FRzMsMdrMO_YGxV6qa8GZf4RbaX75DpRQrjuWf24N0Wi4Gg0BqKdVWiWpu4hUSmPsS1-VrsrNtyHsaLueGu_QJk27atMBqJWT30FqU_ItAGG3XgQ0R0eARzgozXLB68z6vH4F4LG02QuT10JB4XnAI-Crhw3tth0rQrC_ahy0KCQzW2a008qrICj4PEhuUZpcDigg8nOzB4Vlg2ygPvW7ev0m3GxpdadSJ3-DEPCXmLMh67m_1S2bnsaic",
+						"impression_id": "TIZ9VqxMEUCUKa-wgb4FRw_RM",
+						"product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fcalifia-farms-unsweetened-almond-milk-48-fl-oz%2f-%2fA-47540392&sig=1-hutx2uT4YRCxlb9OxOaCG6kEX9x_Ar3f7ShkS3P9emE&rm_e=2Jm3PzpnP2nGNrwthtJQsAFStjdrVdtwzGBi9Hd_0mwWqYeQdOP2hDFdIjjOom_lxYnXIkHFQJ4PGetg1wGuvbHJ1jzkve4sswRt_wTsRGXdu-MeszpGJkUEN7D1XkvdxYo1u9w6Sr9D5apOL8ZuE-z_iniBYX0ZXWHVsR-AG1BrHqMHdDEXMBGrhgBirYEt4uC6K1EC0XyVK_hSZWFmXNyEsJ5cIhVGdK6Kdcb8yXdmjP015XQeA5mNWyQ3PSY1C7ktVe9tZFhSoQWFXHhQaeTjqoCT_bwxUTpGbb-iH7jGq8NAn38dDP0MaVeZidQs&ev=4",
+						"view_beacon": "//b.va.us.criteo.com/rm?rm_e=QWUX5xjVKqStceTy9PU5CtRJ9VfWx7cSB4OcuptUERa2Td927kAa4PTWFjpu98za3m4Zzu__RRY_u6JPrx-Cgb5rLfUz1mOXeSnPwGFieY1f5HHT-9cc048K5I_xulhB8-aX8DcQRatHukYN-sjkQ5lt9ZC_W3_XWPCClBIB-KF3CxMl7JonLELi41G9yKd3nyhBOxfphs-hzuDMByDi7w&ev=4"
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "48634795",
+					"original_tcin": "48634795",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/califia-farms-unsweetened-vanilla-almond-milk-48-fl-oz/-/A-48634795",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_24f29ecd-7659-4fe4-badf-e9a1278bda61",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_0385cade-86ac-4376-99c0-748c3302b807"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_476bcc9b-a27f-4b8d-af20-7eb84dcbd25c_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0184",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Califia Farms Unsweetened Vanilla Almond Milk - 48 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Other Tree Nuts",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified, Vegan, Kosher",
+								"<B>Features:</B> Non-GMO, Dairy Free, Lactose Free, Soy-Free, No Added MSG, Vegan",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Pre-package preparation:</B> Pasteurized",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic",
+								"<B>Country of Origin:</B> United States"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"SMOOTH & CREAMY: Unsweetened Vanilla Almondmilk is smooth and creamy with 0g of sugar per serving. It's your favorite almond milk beautifully blended with the seductive flavor of vanilla.",
+									"GREAT FOR BAKING: Unsweetened Vanilla Almondmilk is perfect for baking and making your favorite dessert recipes. Pour over cereal, blend into smoothies, add to coffee, or drink it straight from a glass. This plant milk is deliciously versatile.",
+									"EXCELLENT SOURCE OF CALCIUM: Unsweetened Vanilla Almondmilk is an excellent source of calcium. Plus it's only 40 calories and 0g of sugar per serving.",
+									"SIMPLE PLANT-BASED INGREDIENTS: Califia Farms plant milks are made with plant-based, dairy-free ingredients that are Non-GMO Certified, Kosher, vegan, and free from carrageenan.",
+									"DELICIOUSLY UNSWEETENED: Vanilla almond milk that's creamy and delightfully drinkable, just without the sugar. Zero grams of sugar per serving to be exact. It's plant-based, dairy-free, and totally delicious. Pure and simple."
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "CALIFIA FARMS LP",
+								"id": "1288203"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/califia-farms/-/N-b5gm6",
+							"linking_id": "b5gm6",
+							"name": "Califia Farms"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$4.29",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.39,
+								"count": 181,
+								"secondary_averages": [
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.21
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.11
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3.93
+									}
+								]
+							}
+						}
+					},
+					"is_sponsored_sku": true,
+					"sponsored_ad": {
+						"ad_source": "criteo",
+						"click_beacon": "//b.va.us.criteo.com/rm?rm_e=vehSgMCFQq7TeRjWkpcWy6eW-bVkLFOhFP0VMewqKYw1BivDHA4TEhewXpz5y7RnT4krSP0VG0Gem1nHsld_0spfl7BTfUQ51_Nm05Cnt9sxj-Ek5X5gJ7Gbpif0J15-CaXhdwoyAf-wboUKRBSamYPkZ5onwTZvUl39BhKSYYps9wTSIqGhQKQ6L6u-ZhiivDscLfn8ctLvWbOeAXo7ZwLm6w-s8aJQKsh3SydmQpwxphHHloT_fUL8gWGH7QGzSZBaAfNNMH1fa7fswQ9xIXQEe-vIyQtOYOhThFpjr92MjCtwLK7rPPxaqY1R3wr2",
+						"click_id": "LaXEJ8YyrkOyzLL8sAUkig_RM",
+						"click_token": "vehSgMCFQq7TeRjWkpcWy6eW-bVkLFOhFP0VMewqKYw1BivDHA4TEhewXpz5y7RnT4krSP0VG0Gem1nHsld_0spfl7BTfUQ51_Nm05Cnt9sxj-Ek5X5gJ7Gbpif0J15-CaXhdwoyAf-wboUKRBSamYPkZ5onwTZvUl39BhKSYYps9wTSIqGhQKQ6L6u-ZhiivDscLfn8ctLvWbOeAXo7ZwLm6w-s8aJQKsh3SydmQpwxphHHloT_fUL8gWGH7QGzSZBaAfNNMH1fa7fswQ9xIXQEe-vIyQtOYOhThFpjr92MjCtwLK7rPPxaqY1R3wr2",
+						"impression_id": "DEg1il0tRUuVTQRBgztOCw_RM",
+						"product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fcalifia-farms-unsweetened-vanilla-almond-milk-48-fl-oz%2f-%2fA-48634795&sig=1-eYds5BDQ7pd07ccgqGdUPSmWehsJDQbsuSuNAiHNuK0&rm_e=yuWcsctzP1FM7dxbbltqAtjf4j3E0hthSRvY_AhYDMZ5W2tAnrfjhX0ESlhj4RacynwWrqpCcRANzOVRAbgEvczmWPjTJ4zbHk6Nx3YNlzEmi6PMNpOhycD55ykIRYoA186nWgkjQHd0b5Yzy4pgSur5R6633moJ3tPsaG9fvgeZGowaRlafOECadT_laTRCHx-5EmrRndwDtSLY5pGt4SrMMMJIfZpM7lR3dUQiolkCVgb9VcYHV8cOn-OqpRVOAzDuDTXWp95tE4gY2h6WuQIPGjKILWTqdAoiefmZUR-mEtG1zU0bIBUFfpih5b15&ev=4",
+						"view_beacon": "//b.va.us.criteo.com/rm?rm_e=JoyETkulWdfwFIuRVX2PaQzmhegqJE7d_bzPKMs-N3K0dshKdcJx_q2aSfVagMCHbt13n3F9g-Lh_1asXiQKypQPrgKvmeI4NCXtRmzFV39xmxBeNlseYWGpqoRQJ63TXgRI19RFuoGIbmRkiLKRNzXL22XN5cFkv2KBz8r9A59WA-30xsHykovx8rufG6_xYtes7LIb0AbsZihqIshrEg&ev=4"
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "54409790",
+					"original_tcin": "54409790",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/unsweetened-original-almond-milk-0-5gal-good-38-gather-8482/-/A-54409790",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_e2e9f6bb-4691-4833-a14a-ddeb8dc0d84c",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_416a73fd-3191-40d5-b301-8b05f8311762",
+									"https://target.scene7.com/is/image/Target/GUEST_61532a3b-7d47-4494-abeb-75d9a75c0604"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_ba7a7a17-4afc-4c60-9b01-45a939811a90_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"is_limited_time_offer": false,
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0289",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Unsweetened Original Almond Milk - 0.5gal - Good &#38; Gather&#8482;",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> 0 Grams Saturated Fat, Kosher",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 Ounces",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Almond milk is perfect for plant-based diets and lifestyles",
+									"Unsweetened recipe doesn’t bring added sugar to your meals",
+									"30cal per serving",
+									"Keep refrigerated"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/good-gather/-/N-yfqzk",
+							"linking_id": "yfqzk",
+							"name": "Good & Gather"
+						},
+						"ribbons": [
+							"Only At Target"
+						]
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$2.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.73,
+								"count": 480,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.75
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.77
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.86
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "54409800",
+					"original_tcin": "54409800",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/unsweetened-vanilla-almond-milk-0-5gal-good-38-gather-8482/-/A-54409800",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_dbcdfad1-e6fa-414b-968a-1cd6c7dc2e6d",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_ef06a3d9-690e-48b5-baad-3a6a63d6d4bc",
+									"https://target.scene7.com/is/image/Target/GUEST_26b2ec0a-19c4-409e-9430-0fdaa47a9627"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_392427a8-c15a-4c41-8df9-a8a8202e03cd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"is_limited_time_offer": false,
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0290",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Unsweetened Vanilla Almond Milk - 0.5gal - Good &#38; Gather&#8482;",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> 0 Grams Saturated Fat, Kosher",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Vanilla flavored almond milk is perfect for plant-based diets and lifestyles",
+									"Unsweetened recipe doesn’t bring added sugar to your meals",
+									"30cal per serving",
+									"Keep refrigerated"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/good-gather/-/N-yfqzk",
+							"linking_id": "yfqzk",
+							"name": "Good & Gather"
+						},
+						"ribbons": [
+							"Only At Target"
+						]
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$2.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.73,
+								"count": 544,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.64
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.72
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.64
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "14936354",
+					"original_tcin": "14936354",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-unsweetened-vanilla-almond-milk-0-5gal/-/A-14936354",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_9f9692b3-106c-4180-b458-75bef613e02c",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_b3bff0e7-32ce-4aae-8004-f433a45cc170",
+									"https://target.scene7.com/is/image/Target/GUEST_b6604ab7-e9f3-457d-b33b-28becd089097",
+									"https://target.scene7.com/is/image/Target/GUEST_5e572abd-2d3e-467e-bd02-fe8397861c0f",
+									"https://target.scene7.com/is/image/Target/GUEST_79dc52a1-ef8a-4c54-91df-32debc530767",
+									"https://target.scene7.com/is/image/Target/GUEST_4cf2650c-9e6f-43db-8324-b7f061e10b1d",
+									"https://target.scene7.com/is/image/Target/GUEST_bb2df23e-ca10-4a9f-8b96-9343ec20f587",
+									"https://target.scene7.com/is/image/Target/GUEST_d55f5559-9b47-4bd3-bbeb-1bcf420608ea"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_35149fa0-b41c-4765-976d-3ee0d242cea8_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_697cb784-d6fb-48c4-a91d-055e65db4662_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_2730f6a3-0d62-40d5-86b2-9e0006087cd0_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_23d09af0-995a-4087-b595-4e014e817ffd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0073",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Unsweetened Vanilla Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified",
+								"<B>Features:</B> No Artificial Colors, No Added Sugar, No Artificial Flavors, No High Fructose Corn Syrup",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Unsweetened almondmilk with vanilla flavor",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"30 calories and 0g saturated fat per serving, with no added sugar",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, soy, lactose, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.81,
+								"count": 931,
+								"secondary_averages": [
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.4
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.3
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.47
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "14936352",
+					"original_tcin": "14936352",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-unsweetened-almond-milk-0-5gal/-/A-14936352",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_701fcc79-ba3a-456b-9911-d86ba4caeb85",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_6d22e543-7612-4a30-a81b-760e471f304f",
+									"https://target.scene7.com/is/image/Target/GUEST_97951621-1f9c-4e90-acad-23bd24316a19",
+									"https://target.scene7.com/is/image/Target/GUEST_1586e304-ffd1-40d2-bbe3-c835ca98d226",
+									"https://target.scene7.com/is/image/Target/GUEST_27147ac2-8241-4cd2-afe6-f69d52040328",
+									"https://target.scene7.com/is/image/Target/GUEST_aa50369f-a990-4b8a-b7ba-6e14c35039ef",
+									"https://target.scene7.com/is/image/Target/GUEST_3ada12e0-1192-49f6-b2a7-a88a671d03a9",
+									"https://target.scene7.com/is/image/Target/GUEST_824689b8-022b-4b61-bd95-ca3cfec7433e"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_b7693e00-b7f3-48f8-82ee-074f7692eb43_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_23d09af0-995a-4087-b595-4e014e817ffd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0089",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Unsweetened Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified",
+								"<B>Features:</B> No Artificial Flavors, No Artificial Colors, No Added Sugar, No High Fructose Corn Syrup",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Unsweetened almondmilk",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"30 calories and 0g saturated fat per serving, with no added sugar",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, soy, lactose, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.84,
+								"count": 788,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.67
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.83
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 5
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "23965216",
+					"original_tcin": "23965216",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/califia-farms-toasted-coconut-almond-milk-48-fl-oz/-/A-23965216",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_cfd41e03-d2d4-42c5-a39e-739f765e60e7",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_54c7af4b-571f-4246-a1f2-2d99a60bd608"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_d73a5b48-f73f-4001-9040-3b44cda411fc_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0183",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Califia Farms Toasted Coconut Almond Milk - 48 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds, Coconut",
+								"<B>May Contain:</B> Other Tree Nuts",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified, Vegan, Kosher",
+								"<B>Features:</B> Non-GMO, Dairy Free, Lactose Free, Soy-Free, No Added MSG, Vegan",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Pre-package preparation:</B> Pasteurized",
+								"<B>Milk source:</B> Almond, Coconut",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic",
+								"<B>Country of Origin:</B> United States"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"DELICIOUSLY DRINKABLE: Toasted Coconut Almondmilk is a smooth and creamy blend of almond milk and coconut cream with the blissful flavor of toasted coconut. It's sugar-free, but still totally delicious. Always plant-based, always dairy-free.",
+									"EXCELLENT SOURCE OF CALCIUM: Toasted Coconut Almondmilk is an excellent source of calcium. Plus it's only 45 calories and 0g of sugar* per serving. *not a low calorie food",
+									"SIMPLE PLANT-BASED INGREDIENTS: Califia Farms plant milks are made with plant-based, dairy-free ingredients that are Non-GMO Certified, Kosher, vegan, and free from carrageenan.",
+									"GREAT FOR BAKING: Toasted Coconut Almondmilk is perfect for baking and making your favorite dessert recipes. Pour over cereal, blend into smoothies, add to coffee, or drink it straight from a glass. This plant milk is deliciously versatile."
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "CALIFIA FARMS LP",
+								"id": "1288203"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/califia-farms/-/N-b5gm6",
+							"linking_id": "b5gm6",
+							"name": "Califia Farms"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$4.29",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.56,
+								"count": 386,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.13
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.38
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.94
+									}
+								]
+							}
+						}
+					},
+					"is_sponsored_sku": true,
+					"sponsored_ad": {
+						"ad_source": "criteo",
+						"click_beacon": "//b.va.us.criteo.com/rm?rm_e=0C990SdKzWYk2NOslBkwdZHJHPUyfU6QfNZGSPiyLllfAarG3dzVV2p1pFoFEbnT1d-W8OsIjT0PPdsIqiBhdki8DqWB-hFswSQpNwQT_vc0L6spNQQlX3qzZDwUWBmAVnwoAXF3RjUhRcJy7BVgFS5BwYYUI4NSENHBHibddZhSSDdzhYd8LlFUycox3HPK_s1qJkHBrhLJB6OaB7bfSkTw_tVoKdcr0LPua0oiChkA5tgUxjBs95gGDxXUVr09apfxxiaIMtB0M7EHMhoFa_ZbH257TP3kS_vGB6iu4Obo0idfaBvbfUjWaTv7e3fx",
+						"click_id": "F_rmwZ1SeUSdHdMtAuEF3w_RM",
+						"click_token": "0C990SdKzWYk2NOslBkwdZHJHPUyfU6QfNZGSPiyLllfAarG3dzVV2p1pFoFEbnT1d-W8OsIjT0PPdsIqiBhdki8DqWB-hFswSQpNwQT_vc0L6spNQQlX3qzZDwUWBmAVnwoAXF3RjUhRcJy7BVgFS5BwYYUI4NSENHBHibddZhSSDdzhYd8LlFUycox3HPK_s1qJkHBrhLJB6OaB7bfSkTw_tVoKdcr0LPua0oiChkA5tgUxjBs95gGDxXUVr09apfxxiaIMtB0M7EHMhoFa_ZbH257TP3kS_vGB6iu4Obo0idfaBvbfUjWaTv7e3fx",
+						"impression_id": "4Rt6Ch_4ME-VJ5OZ_nIE9A_RM",
+						"product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fcalifia-farms-toasted-coconut-almond-milk-48-fl-oz%2f-%2fA-23965216&sig=1-AbOIcKdquEQkwgBYkKAX86XDEwSHN9Vcal7_2fJAJ0M&rm_e=4tsfMA1QMEDkGZB8Mk-KYnBPz_YVo1sVHyO-CM1dKrZsQDoEaYjvye2AkP4lbRQijQIbun67IyKf_tdEeFfQXHXnR9ozoefEQ4ET6ZLIjxR_rnc9Ahg_0FqzP9gPbq8LsxROMS90ZAimpD3tETAmZEQjZWgHku92KVZYyqtOuFeRn-Rwi7d0mbx-96JF5k47ax9q32qBYYwDELwS571tUIMWh054hX1OQX1QJ24flj667LSwj6cNGrt_ZEKrwe1q9K2OQck5gXJtal02EUhSkUakZwemXbUZ5LCScS25JEja1gDgSJ3qgV_j5okHvJOL&ev=4",
+						"view_beacon": "//b.va.us.criteo.com/rm?rm_e=ZhG6hGFAj8jYSDGbUjLRTfyCf7w4AZICzuLaRQd3-XMzfAGyqo9bk0lTkZ1_A6aTke7XxRthRnnbtVQHwEJj8rgWKio9ZE-GHdOIm2UlhMGU2-dnz4prAWrLNmxSl0I1Qi5dMiXJpqIXpK-OFPZfGUli8oP_eSLFPaNt-vNr5HZcjlunyBx4I87bitI1OIqO4LPievVHQNgwiuzworUIMA&ev=4"
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "78328074",
+					"original_tcin": "78328074",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 4,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/califia-farms-pure-black-blonde-roast-cold-brew-coffee-48-fl-oz/-/A-78328074",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_e1cf6abb-6d6d-454a-bf24-98b2d7362fba",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_1f9ae5e7-61ba-48db-a0af-9c803ae1382e"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_95d7e1cd-d419-4730-9d49-aee63ca195ea_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-04-0328",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Califia Farms Pure Black Blonde Roast Cold Brew Coffee - 48 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Does Not Contain Any of the 8 Major Allergens",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified, Vegan, Kosher",
+								"<B>Features:</B> Non-GMO, Lactose Free, Dairy Free, Soy-Free, No Added MSG, Vegan",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Coffee Bean Type:</B> Arabica Beans",
+								"<B>Package Quantity:</B> 1",
+								"<B>Caffeine claim 1:</B> Caffeinated",
+								"<B>Coffee roast 1:</B> Light Roast",
+								"<B>Coffee beverage type 1:</B> Brewed Coffee",
+								"<B>Coffee variety 1:</B> Ethiopian, Central American, South American",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> PET (Polyethylene Terephthalate)"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"BREWED TO BLEND: This unsweetened, Pure Black Blonde Roast Coffee is the perfect base for creating your favorite coffee drinks at home—sip it straight, or try blending with Califia plant-based milks and creamers! Try it hot or iced.",
+									"EXPERTLY CRAFTED: Califia Farms cold brew coffees are gently roasted and delightfully complex, made from 100% arabica beans for a balanced (not bitter) cup of coffee.",
+									"ETHICAL BREW: Califia Farms is committed to continuously finding ways to improve manufacturing practices, contributing to a better world for people and nature. That's why all Califia Farms coffee is purchased from Rainforest Alliance Certified farms.",
+									"UNSWEETENED: Pure Black Blonde Roast Cold Brew is unsweetened so you can customize to your personal taste or sip it straight, hot or iced."
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "CALIFIA FARMS LP",
+								"id": "1288203"
+							},
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/califia-farms/-/N-b5gm6",
+							"linking_id": "b5gm6",
+							"name": "Califia Farms"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$5.69",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 3.92,
+								"count": 204,
+								"secondary_averages": [
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 3.88
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3.56
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.68
+									}
+								]
+							}
+						}
+					},
+					"is_sponsored_sku": true,
+					"sponsored_ad": {
+						"ad_source": "criteo",
+						"click_beacon": "//b.va.us.criteo.com/rm?rm_e=qMdUPZuTE8KSC_jXHshS9iDswk-gb5hRbP-NucaGttFmqP95kOizuawCxxiraGV0C-AyiKoY2EipNQaqkb0IyeYvf0nSBAT0R6qD3Us6sItYkZeLJGv2gyIccTcXRGDhavC3AgTRE2SHSFHKtEa8bvfDdJSp5mFOmLXTsw6sk-iJhBO584vvyxRtxCanWKx90WpsvRmsjCTpon_zejSKST3cVcjeW8IpnAEMb_fVAJWAHOuFnhwJFfHXCddrXXqP20wKNOSqsFG83aiI2oVMKTOlu9K2_1U4jQkVefriAzzzaZrPZVLhSBi0XUlye-bO",
+						"click_id": "COwgzQxUekST2dyJkTf8bw_RM",
+						"click_token": "qMdUPZuTE8KSC_jXHshS9iDswk-gb5hRbP-NucaGttFmqP95kOizuawCxxiraGV0C-AyiKoY2EipNQaqkb0IyeYvf0nSBAT0R6qD3Us6sItYkZeLJGv2gyIccTcXRGDhavC3AgTRE2SHSFHKtEa8bvfDdJSp5mFOmLXTsw6sk-iJhBO584vvyxRtxCanWKx90WpsvRmsjCTpon_zejSKST3cVcjeW8IpnAEMb_fVAJWAHOuFnhwJFfHXCddrXXqP20wKNOSqsFG83aiI2oVMKTOlu9K2_1U4jQkVefriAzzzaZrPZVLhSBi0XUlye-bO",
+						"impression_id": "ZyInGhc0bkOcPcv-7XF2Qw_RM",
+						"product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fcalifia-farms-pure-black-blonde-roast-cold-brew-coffee-48-fl-oz%2f-%2fA-78328074&sig=1-opHTFWevbsanyhPKfKirsd9JQGXlFwFg685txc7-rq8&rm_e=GoeXnbdXKfLBrmKel8O8hHBXpNxI8G99ndwKyFtBC4NpdQKURHMYfL5o_xUMJjYJrXa5gY05B1MSw57nMWaa9Np4HeXHmWATyKNB0W3SzwBlGCj4XhJXc8QUj_ibxAQXNSKKy2kevVkxUQZIjoTkD_xnVwMusre-wWMdpgx-t93aWps-rX_XS0qDcE7gbyZ06Fqrdr_eXxz0QWgDVshmAHkR6DdCgq5A5UspQqDOdalZjHFTBWYpzifNvvSnhN5ILcIbyeZHS4csbSEhdcqxZtvSfnseAPcj4ZygelLPqXfKcC13Vp6p62_Cfkfff1wa&ev=4",
+						"view_beacon": "//b.va.us.criteo.com/rm?rm_e=Qj83mKPvvKf26lqvWSZf9MjKbMdcgApmxUQb0Q9jhoX_ftfnPuyHAcXqp78lQohk5s7NGdsOmySnF1z9WuQYgh6H-QlpgUkDTNBVqQQPpkT-LwmCFapRr37nmEdWQds5O7tXBU4lOS5c0YJs5AlW9uPQ814_0H3ZNwQRDisBjrJuQ1iac3_rArRovkD7S7-9KHciKthahoG0QASxdms8xg&ev=4"
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "21506512",
+					"original_tcin": "21506512",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 4,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/califia-farms-mocha-cold-brew-coffee-with-almond-milk-48-fl-oz/-/A-21506512",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_3620bce2-943d-4beb-a1bb-e30121526779",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_dd8c07b7-3739-48af-82c8-6e4964a8d27e"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_41c81dbd-21bb-404d-9f99-fa64d5da2b0e_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-04-0083",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Califia Farms Mocha Cold Brew Coffee with Almond Milk - 48 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Other Tree Nuts",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified, Vegan, Kosher",
+								"<B>Features:</B> Non-GMO, Dairy Free, Lactose Free, Soy-Free, No Added MSG, Vegan",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Coffee Bean Type:</B> Arabica Beans",
+								"<B>Package Quantity:</B> 1",
+								"<B>Caffeine claim 1:</B> Caffeinated",
+								"<B>Coffee roast 1:</B> Medium Roast",
+								"<B>Coffee beverage type 1:</B> Mocha",
+								"<B>Coffee variety 1:</B> Ethiopian, Central American, South American",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> PET (Polyethylene Terephthalate)"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"SMOOTH + CREAMY COLD BREW: Cold brewed 100% arabica coffee beans, real cocoa, and creamy almond milk are blended in this luxuriously smooth ready-to-drink Mocha Cold Brew Coffee.",
+									"SIMPLE PLANT-BASED INGREDIENTS: Califia Farms Cold Brew Coffee Blends are made with plant-based, dairy-free ingredients that are Non-GMO Certified, Kosher, vegan, and free from carrageenan.",
+									"READY TO DRINK: Califia Farms cold brew coffee blends are ready when you are. Keep them on-hand in the fridge for ultimate coffee convenience. We did the brewing and the blending, so all you have to do is pour and enjoy.",
+									"A PERFECT PICK-ME-UP: Whether it's your first morning coffee to start the day or that afternoon pick-me-up when you start to fade, this smooth and creamy cold brew coffee blend is here for you.",
+									"ETHICAL BREW: Califia Farms is committed to continuously finding ways to improve manufacturing practices, contributing to a better world for people and nature. That's why all Califia Farms coffee is purchased from Rainforest Alliance Certified farms."
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "CALIFIA FARMS LP",
+								"id": "1288203"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/califia-farms/-/N-b5gm6",
+							"linking_id": "b5gm6",
+							"name": "Califia Farms"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$5.69",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 3.85,
+								"count": 325,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3.32
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 3.63
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.37
+									}
+								]
+							}
+						}
+					},
+					"is_sponsored_sku": true,
+					"sponsored_ad": {
+						"ad_source": "criteo",
+						"click_beacon": "//b.va.us.criteo.com/rm?rm_e=EmWfFodlB0VI_qv3ajFaozBjKF0ighzONgPPLRpqxufQ36v6hfniW6vn-HzuRxVKO3mtLI2ttP0vLDMWsjE5qHsJQfJKe6fxCtrs-UyfzrMhT6YKwPDpqiU4e7DprxysQC7_tp_lG5m_QzwGh4yP9e4y274Qwc-00M-M19OPQP3naQbePwuPM0qxt31_vdJPRxBhZJPWWmn_3bOpD9sYLUOVcDsrTnEn9VM9zFWOqeJ-hGSlxqLlAFnA2vCzR75gDXGJTQM5Tve57EOcOQnfa5ye54KTJmMAgz_kIouNiQcm0nbSdRcV3m0xd1LnP5L-",
+						"click_id": "029-iWUh8k-N5INt_vk6GQ_RM",
+						"click_token": "EmWfFodlB0VI_qv3ajFaozBjKF0ighzONgPPLRpqxufQ36v6hfniW6vn-HzuRxVKO3mtLI2ttP0vLDMWsjE5qHsJQfJKe6fxCtrs-UyfzrMhT6YKwPDpqiU4e7DprxysQC7_tp_lG5m_QzwGh4yP9e4y274Qwc-00M-M19OPQP3naQbePwuPM0qxt31_vdJPRxBhZJPWWmn_3bOpD9sYLUOVcDsrTnEn9VM9zFWOqeJ-hGSlxqLlAFnA2vCzR75gDXGJTQM5Tve57EOcOQnfa5ye54KTJmMAgz_kIouNiQcm0nbSdRcV3m0xd1LnP5L-",
+						"impression_id": "UFQL8t539UqOB5hKEpV0IQ_RM",
+						"product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fcalifia-farms-mocha-cold-brew-coffee-with-almond-milk-48-fl-oz%2f-%2fA-21506512&sig=1-AmAGyOhH2PvD2A1A-9ymPK8hZkjCxwZ0CHxIoBQSobg&rm_e=cbVMx8aj6YErRzhmSw3fuzlZ1PKo2lnorZbP-5JUe8tJAE7YrRFhF4YVhgRdo-Em_mw-6-sB30bsl-OyP5pryWNGpnQ7p1ti6AriC9AHeNA9tXDNQGBLmQ6khww0hS8A4TmDF0rVnad1TqdZRrof1QRwFBY_NrNpgwM9MsX8-jFqQU4eREYawdPdhhqriwq_-z1xcr_vGj448aERhpTQOM3PwSFUeGuqQUe6g0rEv01dElrCxqdadblJOEIrF-75sHHmzaVWnY04R3nm-ESAhaNv5oKlSuWyr4Gts-VML0f0JKpP_nOKLm8W3IWsA0Ox&ev=4",
+						"view_beacon": "//b.va.us.criteo.com/rm?rm_e=yHXQKoSNeiZt64FVNjfV6MPsRpTi9JfOiidGWKUUe1r_L6aWyHs7TjOXAaQkbqsPtTFgN3sWK2_MqC1WBDBP3g3CL18-PGFOVyBH4ySt3PYVTZihBGRW0OfMhmfCyTF9-NLMrvgBgMkBrqauz6CemT9WtK4ulwH-Cq-OewNs4th-CXoUTVaZ_M9AgRvMssL8Bd2SmVrz0UuJLPZSP95cqw&ev=4"
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "14936365",
+					"original_tcin": "14936365",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-original-almond-milk-0-5gal/-/A-14936365",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_54c33a27-a8fa-4b80-9487-2e984a91fccd",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_c3ada7d7-be30-492e-b809-061cede09334",
+									"https://target.scene7.com/is/image/Target/GUEST_16c0b510-0433-4122-8082-fef7c3a709a5",
+									"https://target.scene7.com/is/image/Target/GUEST_7e7cef6f-782a-47a8-9b9b-905b5b53793a",
+									"https://target.scene7.com/is/image/Target/GUEST_03c463cc-739c-4a39-87ca-9e75a2149903",
+									"https://target.scene7.com/is/image/Target/GUEST_0dc0e99f-864b-488f-97b6-0899b516e563",
+									"https://target.scene7.com/is/image/Target/GUEST_0dc2f73e-824f-4069-95fa-0a636cbcf9ab"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_d626e390-6d3f-4e80-8a3e-fbf19d2082e2_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_23d09af0-995a-4087-b595-4e014e817ffd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0062",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Original Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified",
+								"<B>Features:</B> No High Fructose Corn Syrup, No Artificial Colors, No Artificial Flavors",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Almondmilk with original flavor",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"0g saturated fat per serving",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, soy, lactose, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							},
+							{
+								"vendor_name": "SUPERVALU NATIONAL",
+								"id": "1034800"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.81,
+								"count": 730,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.67
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.77
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.77
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "54409765",
+					"original_tcin": "54409765",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/vanilla-almond-milk-0-5gal-good-38-gather-8482/-/A-54409765",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_85a4938a-3c51-4c51-96f5-6bd76fc191b5",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_09da74df-5171-4a22-a9f0-a6b1c080c86d",
+									"https://target.scene7.com/is/image/Target/GUEST_6370b221-6843-4104-b3d2-c3e106664809"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_5f8568af-16dd-48b9-b365-14e9b420d6ce_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"is_limited_time_offer": false,
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0288",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Vanilla Almond Milk - 0.5gal - Good &#38; Gather&#8482;",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> 0 Grams Saturated Fat, Kosher",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Vanilla flavored almond milk is perfect for plant-based diets and lifestyles",
+									"Easily incorporates into your baked goods, smoothies, coffee and more",
+									"80cal per serving",
+									"Keep refrigerated"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/good-gather/-/N-yfqzk",
+							"linking_id": "yfqzk",
+							"name": "Good & Gather"
+						},
+						"ribbons": [
+							"Only At Target"
+						]
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$2.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.76,
+								"count": 413,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.81
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.88
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.83
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "14936366",
+					"original_tcin": "14936366",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-vanilla-almond-milk-0-5gal/-/A-14936366",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_eb4b55b0-5f36-4ff1-9d7a-8c6269a4d29b",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_f547ff7e-03b5-4539-af70-7ea2f8e4cecb",
+									"https://target.scene7.com/is/image/Target/GUEST_49442a45-a5ad-4cb2-8cfc-a7b27f86234d",
+									"https://target.scene7.com/is/image/Target/GUEST_d57664f4-7e96-495c-b7d4-acf3b656cc5b",
+									"https://target.scene7.com/is/image/Target/GUEST_321ab363-6c96-4187-bc8c-03e296ec01f0",
+									"https://target.scene7.com/is/image/Target/GUEST_fcba1925-3118-4016-ab87-01e291d00c37",
+									"https://target.scene7.com/is/image/Target/GUEST_a0ea46ad-748d-42c7-81e4-7d4e66a9dfb1",
+									"https://target.scene7.com/is/image/Target/GUEST_2c15728e-4fed-4af1-a578-52ed325e92f5",
+									"https://target.scene7.com/is/image/Target/GUEST_e03b7804-603a-423b-ba2e-e83701288ae8",
+									"https://target.scene7.com/is/image/Target/GUEST_2f4eb3e9-0d8b-46ad-97ee-8102f136d63f",
+									"https://target.scene7.com/is/image/Target/GUEST_b3bff0e7-32ce-4aae-8004-f433a45cc170"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_c6c9e4c0-ae26-4d45-b28a-7a50210a3e6a_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_23d09af0-995a-4087-b595-4e014e817ffd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0063",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Vanilla Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified",
+								"<B>Features:</B> No Artificial Flavors, No Artificial Colors, No High Fructose Corn Syrup",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Almondmilk with vanilla flavor",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"0g saturated fat per serving",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, soy, lactose, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							},
+							{
+								"vendor_name": "SUPERVALU NATIONAL",
+								"id": "1034800"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.82,
+								"count": 810,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.6
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.8
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.5
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "50759159",
+					"original_tcin": "50759159",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-unsweetened-original-almond-milk-96-fl-oz/-/A-50759159",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_fffbc71a-dc14-43a9-a1a2-47e6b47baf14",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_6de2ebfc-a65f-490e-b38f-6b21e1f9b8b0",
+									"https://target.scene7.com/is/image/Target/GUEST_956276a2-54c1-4f33-890c-d75a478b84cc",
+									"https://target.scene7.com/is/image/Target/GUEST_0d5d6aa0-c45d-4e89-bc11-00b530574ce9",
+									"https://target.scene7.com/is/image/Target/GUEST_f943f873-b746-45f2-89dd-bfb1153be4fd",
+									"https://target.scene7.com/is/image/Target/GUEST_b8a919a7-be49-439f-b37d-3f5bd05e3976",
+									"https://target.scene7.com/is/image/Target/GUEST_3e747333-5d00-4eea-9961-23a993135200"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_040b3012-c448-4f21-830f-c7f4e7057cf7_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_ee9d052f-1ea7-49d7-88b5-fe16575d5134_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0066",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Unsweetened Original Almond Milk - 96 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> Gluten Free, Cholesterol Free, Kosher",
+								"<B>Features:</B> Lactose Free, Dairy Free, Soy-Free, Peanut Free",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 96 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"- Made with real California almonds",
+									"- Free from Dairy, Soy and Lactose",
+									"- Excellent source of vitamins D & E",
+									"- 50% More Calcium than Milk",
+									"- Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/almond-breeze/-/N-kirbx",
+							"linking_id": "kirbx",
+							"name": "Almond Breeze"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$5.59",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.79,
+								"count": 359,
+								"secondary_averages": [
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.83
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.82
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.83
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "51462241",
+					"original_tcin": "51462241",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-unsweetened-almond-milk-96-fl-oz/-/A-51462241",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_cd7a4f8b-ed0a-40d9-acb4-a25169952598",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_5cf5bce2-53c0-42c4-bfaf-a83b328e754e",
+									"https://target.scene7.com/is/image/Target/GUEST_0c2b57f9-b697-4cdf-af80-17fbec9df24e",
+									"https://target.scene7.com/is/image/Target/GUEST_71e9457c-0274-4414-9aac-6ee270195aa5",
+									"https://target.scene7.com/is/image/Target/GUEST_9cb580cd-087b-40af-9033-993cca934627",
+									"https://target.scene7.com/is/image/Target/GUEST_727b6fc3-0b7e-4ab4-aa41-0455d57e077d"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_b3f54136-4bd0-47ca-a70f-bb428107bd55_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_23d09af0-995a-4087-b595-4e014e817ffd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0138",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Unsweetened Almond Milk - 96 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> Cholesterol Free, 0 Grams Saturated Fat, Gluten Free, Non-GMO Project Verified",
+								"<B>Features:</B> Peanut Free, Lactose Free, Soy-Free, Dairy Free, No High Fructose Corn Syrup, Non-GMO",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Pre-package preparation:</B> Pasteurized",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 96 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic",
+								"<B>Country of Origin:</B> United States"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Unsweetened almondmilk",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"30 calories and 0g saturated fat per serving, with no added sugar",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, soy, lactose, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$5.59",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.79,
+								"count": 163,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.43
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 3.71
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3.29
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "15078351",
+					"original_tcin": "15078351",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 16,
+							"department_id": 231
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-unsweetened-original-almond-milk-1qt/-/A-15078351",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_8a1a3221-dd53-4235-aac8-33257900236b",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_3b7a94a0-65e8-437a-95a1-53cf3a4c36fc",
+									"https://target.scene7.com/is/image/Target/GUEST_31693364-9842-4b61-9976-d6c39e26ce9c",
+									"https://target.scene7.com/is/image/Target/GUEST_4d3c8266-ca20-4f24-a941-8e1a29866c82",
+									"https://target.scene7.com/is/image/Target/GUEST_a6bfa45f-053e-4f41-89eb-7f04b8c50096",
+									"https://target.scene7.com/is/image/Target/GUEST_89333b53-d745-467d-89ae-e9878e18e96a",
+									"https://target.scene7.com/is/image/Target/GUEST_dfc542e6-001c-4e22-94f1-54d63ff26b93",
+									"https://target.scene7.com/is/image/Target/GUEST_381a42e7-2330-4ee8-9fed-58fb78ca42af",
+									"https://target.scene7.com/is/image/Target/GUEST_17442ee1-9194-4496-baa1-d8df92f3edf6",
+									"https://target.scene7.com/is/image/Target/GUEST_ad59b5e8-a4bf-4456-95e6-b368c2f61aa3"
+								]
+							}
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "231-16-0426",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Unsweetened Original Almond Milk - 1qt",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> Gluten Free, Cholesterol Free, Kosher",
+								"<B>Features:</B> Lactose Free, Dairy Free, No Added Sugar, Soy-Free, Does Not Contain Egg, No Artificial Flavors, No Artificial Colors",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 32 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"- Made with real California almonds",
+									"- Free from Dairy, Soy and Lactose",
+									"- Excellent source of vitamins D & E",
+									"- 50% More Calcium than Milk",
+									"- Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "KEHE FOOD DISTRIBUTOR",
+								"id": "2893914"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/blue-diamond-almonds/-/N-cw0sj",
+							"linking_id": "cw0sj",
+							"name": "Blue Diamond Almonds"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$2.99",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.59,
+								"count": 197,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.73
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.72
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.8
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "47540392",
+					"original_tcin": "47540392",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/califia-farms-unsweetened-almond-milk-48-fl-oz/-/A-47540392",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_680e9aa5-4f71-4cec-b402-717777847892",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_1a7966b1-0f87-4025-9108-27748c8d2308"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_e00c0543-c18c-4299-8d6f-14a247c15e4b_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0181",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Califia Farms Unsweetened Almond Milk - 48 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Other Tree Nuts",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified, Vegan, Kosher",
+								"<B>Features:</B> Non-GMO, Dairy Free, Lactose Free, Soy-Free, No Added MSG, Vegan",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Pre-package preparation:</B> Pasteurized",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic",
+								"<B>Country of Origin:</B> United States"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"SMOOTH & CREAMY: Unsweetened Almondmilk is smooth and creamy with 0g of sugar per serving, perfect for all your plant milk needs.",
+									"COOKING & BAKING: Unsweetened Almondmilk is perfect for all culinary applications from savory recipes to baked treats. Pour over cereal, blend into smoothies, add to coffee, or drink it straight from a glass. This plant milk is deliciously versatile.",
+									"EXCELLENT SOURCE OF CALCIUM: Unsweetened Almondmilk is an excellent source of calcium. Plus it's only 35 calories and 0g of sugar per serving.",
+									"SIMPLE PLANT-BASED INGREDIENTS: Califia Farms plant milks are made with plant-based, dairy-free ingredients that are Non-GMO Certified, Kosher, vegan, and free from carrageenan.",
+									"DELICIOUSLY UNSWEETENED: Almond milk that's creamy and delightfully drinkable, just without the sugar. Zero grams of sugar per serving to be exact. It's plant-based, dairy-free, and totally delicious. Pure and simple."
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "CALIFIA FARMS LP",
+								"id": "1288203"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/califia-farms/-/N-b5gm6",
+							"linking_id": "b5gm6",
+							"name": "Califia Farms"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$4.29",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.44,
+								"count": 454,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3.81
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.71
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "54409711",
+					"original_tcin": "54409711",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/original-almond-milk-0-5gal-good-38-gather-8482/-/A-54409711",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_9097426b-8f4d-461c-b345-4c99e4e548fe",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_e9c63d1b-d583-4414-831e-be07b220d1ee",
+									"https://target.scene7.com/is/image/Target/GUEST_69120ecb-d73d-4f75-a1ac-8efefc9b53f3"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_28744ee7-408d-42b9-be9f-dd4373c3b796_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"is_limited_time_offer": false,
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0287",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Original Almond Milk - 0.5gal - Good &#38; Gather&#8482;",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> 0 Grams Saturated Fat, Kosher",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Almond milk is perfect for plant-based diets and lifestyles",
+									"Can be used in cereal, smoothies, coffee, tea and more",
+									"60cal per serving",
+									"Keep refrigerated"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/good-gather/-/N-yfqzk",
+							"linking_id": "yfqzk",
+							"name": "Good & Gather"
+						},
+						"ribbons": [
+							"Only At Target"
+						]
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$2.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.79,
+								"count": 263,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.77
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.73
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.64
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "50759540",
+					"original_tcin": "50759540",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-unsweetened-vanilla-almond-milk-96-fl-oz/-/A-50759540",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_6cf84d3e-64db-44e4-9f87-43557b7b41ce",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_7edd887a-f1ea-429b-aec2-0b7d4c9a86a1",
+									"https://target.scene7.com/is/image/Target/GUEST_41f99a0e-81aa-449f-8a16-11785a3db879",
+									"https://target.scene7.com/is/image/Target/GUEST_23a86abd-d6a3-48c8-9715-cc17ac9ec49d",
+									"https://target.scene7.com/is/image/Target/GUEST_540df06c-e4a8-4abd-8de7-2cf80338630e",
+									"https://target.scene7.com/is/image/Target/GUEST_7e725b59-1255-479c-9be3-db6e2d5bfed7",
+									"https://target.scene7.com/is/image/Target/GUEST_bcb8d1bd-67d2-473d-a65e-444cff7c79da"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_040b3012-c448-4f21-830f-c7f4e7057cf7_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_ee9d052f-1ea7-49d7-88b5-fe16575d5134_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0071",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Unsweetened Vanilla Almond Milk - 96 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> Cholesterol Free, Gluten Free, Kosher",
+								"<B>Features:</B> Dairy Free, Lactose Free, Soy-Free, Peanut Free",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 96 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"- Made with real California almonds",
+									"- Free from Dairy, Soy and Lactose",
+									"- Excellent source of vitamins D & E",
+									"- 50% More Calcium than Milk",
+									"- Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/almond-breeze/-/N-kirbx",
+							"linking_id": "kirbx",
+							"name": "Almond Breeze"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$5.59",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.82,
+								"count": 114,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.17
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.33
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.5
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "15078352",
+					"original_tcin": "15078352",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 16,
+							"department_id": 231
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-unsweetened-vanilla-almond-milk-1qt/-/A-15078352",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_147cbcea-7084-4c2b-a39d-42060d501251",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_bcbaf9ac-c4a8-4b7f-9b2f-84ddcaa5efd3",
+									"https://target.scene7.com/is/image/Target/GUEST_785170cb-4c8f-4b8d-874a-eccfdd57b18c",
+									"https://target.scene7.com/is/image/Target/GUEST_435a2ad1-3220-4bbf-ad6c-47b321f428f2",
+									"https://target.scene7.com/is/image/Target/GUEST_d9e3d555-0e48-4458-b938-077b1d8170b3",
+									"https://target.scene7.com/is/image/Target/GUEST_f2fb014e-0bcd-473f-bd2f-883bb5dee3d3",
+									"https://target.scene7.com/is/image/Target/GUEST_977d4e41-2b4e-487a-b619-a96f10bd9d0f",
+									"https://target.scene7.com/is/image/Target/GUEST_41a42185-2f8d-4e04-a90f-437a9684caa4",
+									"https://target.scene7.com/is/image/Target/GUEST_b3cedac3-e59b-41fe-960f-e5f6b8f0c7d8",
+									"https://target.scene7.com/is/image/Target/GUEST_5e896052-cc9a-4c04-84f7-1995b8757db6"
+								]
+							}
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "231-16-0427",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Unsweetened Vanilla Almond Milk - 1qt",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Tree Nuts",
+								"<B>Dietary Needs:</B> Cholesterol Free, Gluten Free, Kosher",
+								"<B>Features:</B> Dairy Free, Lactose Free, Soy-Free, No Added Sugar, No Artificial Flavors, Does Not Contain Egg, No Artificial Colors",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 32 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"- Made with real California almonds",
+									"- Free from Dairy, Soy and Lactose",
+									"- Excellent source of vitamins D & E",
+									"- 50% More Calcium than Milk",
+									"- Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "KEHE FOOD DISTRIBUTOR",
+								"id": "2893914"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/blue-diamond-almonds/-/N-cw0sj",
+							"linking_id": "cw0sj",
+							"name": "Blue Diamond Almonds"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$2.99",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.55,
+								"count": 242,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.26
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.36
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.44
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "14937073",
+					"original_tcin": "14937073",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-unsweetened-original-almond-milk-0-5gal/-/A-14937073",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_c0e31809-f96d-4d5b-92e4-45d5af49d96a",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_71bfddba-a007-4202-a7be-888888f281b1",
+									"https://target.scene7.com/is/image/Target/GUEST_8e85d2ef-6271-4ed6-b996-d13187d37be3",
+									"https://target.scene7.com/is/image/Target/GUEST_f5f65bec-a6ff-4ffa-97d9-727b32c5dffd",
+									"https://target.scene7.com/is/image/Target/GUEST_582d6d02-3ead-4f91-b17e-79cbb125d5be",
+									"https://target.scene7.com/is/image/Target/GUEST_ce894c28-1137-4ed3-bc7d-6fc28bd7d9c9",
+									"https://target.scene7.com/is/image/Target/GUEST_2c3c6a14-5736-4f31-87d5-18e44ad7d82f"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_040b3012-c448-4f21-830f-c7f4e7057cf7_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_ee9d052f-1ea7-49d7-88b5-fe16575d5134_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0056",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Unsweetened Original Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> Gluten Free, Kosher",
+								"<B>Features:</B> Lactose Free, Dairy Free, Soy-Free, Peanut Free",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 Ounces",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Made with real California almonds",
+									"Free from Dairy, Soy and Lactose",
+									"Excellent source of vitamins D & E",
+									"50% More Calcium than Milk",
+									"Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/almond-breeze/-/N-kirbx",
+							"linking_id": "kirbx",
+							"name": "Almond Breeze"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.99",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.75,
+								"count": 376,
+								"secondary_averages": [
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 5
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 5
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 5
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "13752452",
+					"original_tcin": "13752452",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-vanilla-almond-milk-0-5gal/-/A-13752452",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_dc26d364-db02-401e-a385-dd14d4a8d2d4",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_c283c28a-5831-4cef-836b-fcbdfa8bed7b",
+									"https://target.scene7.com/is/image/Target/GUEST_c56f8b9e-5ef1-4e97-b0d6-aee489f99d05",
+									"https://target.scene7.com/is/image/Target/GUEST_17c0d617-4587-4b9e-ad47-91ad701f8bdd",
+									"https://target.scene7.com/is/image/Target/GUEST_fbeca569-1367-4263-bd13-568b113e840b",
+									"https://target.scene7.com/is/image/Target/GUEST_ca3fa833-62a7-4b63-bf36-07fd3605e000",
+									"https://target.scene7.com/is/image/Target/GUEST_90e8705b-7769-4ca6-8c65-73330c79f9f3"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_040b3012-c448-4f21-830f-c7f4e7057cf7_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_ee9d052f-1ea7-49d7-88b5-fe16575d5134_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0058",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Vanilla Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> Cholesterol Free, Gluten Free, Kosher",
+								"<B>Features:</B> Dairy Free, Lactose Free, Soy-Free, Does Not Contain Egg",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 Ounces",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"- Made with real California almonds",
+									"- Free from Dairy, Soy and Lactose",
+									"- Excellent source of vitamins D & E",
+									"- 50% More Calcium than Milk",
+									"- Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							},
+							{
+								"vendor_name": "SUPERVALU NATIONAL",
+								"id": "1034800"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/almond-breeze/-/N-kirbx",
+							"linking_id": "kirbx",
+							"name": "Almond Breeze"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.99",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.79,
+								"count": 542,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 5
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.67
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 5
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "51462238",
+					"original_tcin": "51462238",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-unsweetened-vanilla-almond-milk-96-fl-oz/-/A-51462238",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_e7bc42ec-6aef-472a-8d45-8933467eeb79",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_e9ff0a8c-dde0-4055-bd0e-bb002eeb5618",
+									"https://target.scene7.com/is/image/Target/GUEST_2aad647a-d74e-435f-a588-f25782023fc6",
+									"https://target.scene7.com/is/image/Target/GUEST_62800803-aae9-43f8-88e1-b13ce154ce3b",
+									"https://target.scene7.com/is/image/Target/GUEST_3cf82403-e7c0-43c0-80fb-d9ca0749bb21",
+									"https://target.scene7.com/is/image/Target/GUEST_3a39e41e-93cd-4805-941f-5531c70b34c0",
+									"https://target.scene7.com/is/image/Target/GUEST_88ca5a33-0a92-454c-a486-75e6abeff792",
+									"https://target.scene7.com/is/image/Target/GUEST_6421a9ab-2634-4bf7-938c-d53c86d153d4",
+									"https://target.scene7.com/is/image/Target/GUEST_883c20af-aa50-4a9d-bb69-9533359d28bb"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_23d09af0-995a-4087-b595-4e014e817ffd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0139",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Unsweetened Vanilla Almond Milk - 96 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> Cholesterol Free, 0 Grams Saturated Fat, Gluten Free, Non-GMO Project Verified",
+								"<B>Features:</B> Soy-Free, Peanut Free, Lactose Free, Dairy Free, No High Fructose Corn Syrup, Non-GMO",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Pre-package preparation:</B> Pasteurized",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 96 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic",
+								"<B>Country of Origin:</B> United States"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Unsweetened almondmilk with vanilla flavor",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"30 calories and 0g saturated fat per serving, with no added sugar",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, soy, lactose, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$5.59",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.78,
+								"count": 221,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 5
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 5
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 5
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "81623401",
+					"original_tcin": "81623401",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-almond-milk-original-96-fl-oz/-/A-81623401",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_a147bb21-426d-4e75-a615-b434178d8c33",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_0ff30e45-5ad6-4501-aea0-41582d33cbbd",
+									"https://target.scene7.com/is/image/Target/GUEST_90e11f4a-4170-41f1-96c3-513c491adfc4",
+									"https://target.scene7.com/is/image/Target/GUEST_0ee63f42-ff72-48e8-b11a-73bdcd31f4c6",
+									"https://target.scene7.com/is/image/Target/GUEST_81e63121-85bd-42ee-bad3-48dc9053813e"
+								]
+							}
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0307",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Almond Milk Original - 96 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> 0 Grams Saturated Fat, Cholesterol Free, Gluten Free, Vegan, Kosher, Non-GMO Project Verified, Certified Gluten Free",
+								"<B>Features:</B> Vegan, No Artificial Colors, Dairy Free, Non-GMO, Plant-Based, Lactose Free, Soy-Free",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 96 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Almondmilk with original flavor",
+									"Provides vitamin E and 50% more calcium than dairy milk*",
+									"0g saturated fat per serving",
+									"Plant-based and gluten-free",
+									"Non-GMO Project Verified",
+									"Free from dairy, gluten, soy, carrageenan, cholesterol, and artificial colors and flavors"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$5.59",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.69,
+								"count": 35
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "15744220",
+					"original_tcin": "15744220",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 16,
+							"department_id": 231
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-original-almond-milk-1qt/-/A-15744220",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_2cba769c-fc65-4081-b3cb-71007b563de7",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_1d8c93b9-fa5a-4601-96f3-d58f0edff390",
+									"https://target.scene7.com/is/image/Target/GUEST_0a20b923-d88a-435c-9de2-97fa70b582d7",
+									"https://target.scene7.com/is/image/Target/GUEST_ae80fd82-24d1-4241-81bb-1e9f55bd7226",
+									"https://target.scene7.com/is/image/Target/GUEST_9aaa5380-5a3b-4365-9052-a7233db8cb3c",
+									"https://target.scene7.com/is/image/Target/GUEST_3e3dfcb1-e1e7-4987-925a-a355938e92b9",
+									"https://target.scene7.com/is/image/Target/GUEST_8c67a12c-a951-455c-8e28-f66485914dc3",
+									"https://target.scene7.com/is/image/Target/GUEST_488568fc-8daa-46ca-9d5d-ab0810a97b4d",
+									"https://target.scene7.com/is/image/Target/GUEST_7c3328c7-5395-4bcd-8a0b-63d1283eaf6b",
+									"https://target.scene7.com/is/image/Target/GUEST_2f6a3de4-acb8-41bd-9b9a-60b23c4dd7a3"
+								]
+							}
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "231-16-0059",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Original Almond Milk - 1qt",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> Gluten Free, Cholesterol Free, Kosher",
+								"<B>Features:</B> Lactose Free, Dairy Free, Peanut Free, Soy-Free",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 32 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"- Made with real California almonds",
+									"- Free from Dairy, Soy and Lactose",
+									"- Excellent source of vitamins D & E",
+									"- 50% More Calcium than Milk",
+									"- Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "KEHE FOOD DISTRIBUTOR",
+								"id": "2893914"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/blue-diamond-almonds/-/N-cw0sj",
+							"linking_id": "cw0sj",
+							"name": "Blue Diamond Almonds"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$2.39",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.52,
+								"count": 54,
+								"secondary_averages": [
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.45
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.9
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.09
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "77574189",
+					"original_tcin": "77574189",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 16,
+							"department_id": 231
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/unsweetened-vanilla-almond-milk-32oz-good-38-gather-8482/-/A-77574189",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_a00b7756-78bb-4df4-9161-8999539eebac",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_5664cd55-1ad3-48bd-a894-1bf2c8d9aa93",
+									"https://target.scene7.com/is/image/Target/GUEST_25753e14-fb17-4db9-b409-8dda6cbac23c"
+								]
+							}
+						},
+						"is_limited_time_offer": false,
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "231-16-0177",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Unsweetened Vanilla Almond Milk - 32oz - Good &#38; Gather&#8482;",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> 0 Grams Trans Fat, Non-GMO Project Verified",
+								"<B>Features:</B> No High Fructose Corn Syrup, Lactose Free, No Artificial Flavors, Colors or Preservatives",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 32 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Unsweetened almondmilk with a touch of vanilla flavor for a subtly enhanced flavor",
+									"Great for smoothies, topping cereal or adding to a variety of recipes",
+									"Excellent source of calcium and vitamin A",
+									"Good source of vitamin D",
+									"Just 35 calories per serving"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "SUNOPTA FRUIT GROUP INC",
+								"id": "1191251"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/good-gather/-/N-yfqzk",
+							"linking_id": "yfqzk",
+							"name": "Good & Gather"
+						},
+						"ribbons": [
+							"Only At Target"
+						]
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$1.79",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 3.57,
+								"count": 112,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 3.42
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 3.13
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "48634795",
+					"original_tcin": "48634795",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/califia-farms-unsweetened-vanilla-almond-milk-48-fl-oz/-/A-48634795",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_24f29ecd-7659-4fe4-badf-e9a1278bda61",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_0385cade-86ac-4376-99c0-748c3302b807"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_476bcc9b-a27f-4b8d-af20-7eb84dcbd25c_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0184",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Califia Farms Unsweetened Vanilla Almond Milk - 48 fl oz",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Other Tree Nuts",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified, Vegan, Kosher",
+								"<B>Features:</B> Non-GMO, Dairy Free, Lactose Free, Soy-Free, No Added MSG, Vegan",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Pre-package preparation:</B> Pasteurized",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> Plastic",
+								"<B>Country of Origin:</B> United States"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"SMOOTH & CREAMY: Unsweetened Vanilla Almondmilk is smooth and creamy with 0g of sugar per serving. It's your favorite almond milk beautifully blended with the seductive flavor of vanilla.",
+									"GREAT FOR BAKING: Unsweetened Vanilla Almondmilk is perfect for baking and making your favorite dessert recipes. Pour over cereal, blend into smoothies, add to coffee, or drink it straight from a glass. This plant milk is deliciously versatile.",
+									"EXCELLENT SOURCE OF CALCIUM: Unsweetened Vanilla Almondmilk is an excellent source of calcium. Plus it's only 40 calories and 0g of sugar per serving.",
+									"SIMPLE PLANT-BASED INGREDIENTS: Califia Farms plant milks are made with plant-based, dairy-free ingredients that are Non-GMO Certified, Kosher, vegan, and free from carrageenan.",
+									"DELICIOUSLY UNSWEETENED: Vanilla almond milk that's creamy and delightfully drinkable, just without the sugar. Zero grams of sugar per serving to be exact. It's plant-based, dairy-free, and totally delicious. Pure and simple."
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "CALIFIA FARMS LP",
+								"id": "1288203"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/califia-farms/-/N-b5gm6",
+							"linking_id": "b5gm6",
+							"name": "Califia Farms"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$4.29",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.39,
+								"count": 181,
+								"secondary_averages": [
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.21
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.11
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 3.93
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "14936353",
+					"original_tcin": "14936353",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-dark-chocolate-almond-milk-0-5gal/-/A-14936353",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_92c88957-8ad6-4f12-b11b-01851499ebf4",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_2381ea11-b2b6-4216-9fb6-380ed3624881",
+									"https://target.scene7.com/is/image/Target/GUEST_2730ec23-c4f3-428e-a9e5-881a6ebee8ef",
+									"https://target.scene7.com/is/image/Target/GUEST_cd113366-9d28-4482-b6a1-1c06ae82b30f",
+									"https://target.scene7.com/is/image/Target/GUEST_d0cfe3a5-6ae2-4990-9271-58e07e9434c2",
+									"https://target.scene7.com/is/image/Target/GUEST_a2dbf32e-f8da-4f1a-9feb-11474411e8e2"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_e1c63247-6b55-464e-a286-8e8f86b8149e_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0088",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Dark Chocolate Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>Dietary Needs:</B> Gluten Free, Non-GMO Project Verified",
+								"<B>Features:</B> No High Fructose Corn Syrup, No Artificial Colors, No Artificial Flavors",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Almondmilk with dark chocolate flavor",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"0g saturated fat per serving",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, soy, lactose, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							},
+							{
+								"vendor_name": "SUPERVALU NATIONAL",
+								"id": "1034800"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.49",
+						"formatted_current_price_type": "reg",
+						"location_id": 3991
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.84,
+								"count": 716,
+								"secondary_averages": [
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.91
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.87
+									},
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.78
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "16686646",
+					"original_tcin": "16686646",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 16,
+							"department_id": 231
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": true
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/silk-shelf-stable-vanilla-almond-milk-6ct-8-fl-oz-boxes/-/A-16686646",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_961939f1-53af-4771-a400-e939cab5cea6",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_42fa76f2-aa6e-41c1-9b3e-81f0ae1a06fc",
+									"https://target.scene7.com/is/image/Target/GUEST_b3bff0e7-32ce-4aae-8004-f433a45cc170",
+									"https://target.scene7.com/is/image/Target/GUEST_c1d6c704-6252-4a17-9ea7-68fc19c9c0ba",
+									"https://target.scene7.com/is/image/Target/GUEST_273e0aeb-cb40-4a2d-98fb-19541d186a38",
+									"https://target.scene7.com/is/image/Target/GUEST_4d37052a-5a3f-4e71-ae85-d0fbb627e44c",
+									"https://target.scene7.com/is/image/Target/GUEST_86928f7f-b5f9-4c6f-8478-b505d0a6fbf3",
+									"https://target.scene7.com/is/image/Target/GUEST_c8feef25-91de-4621-8699-fc80a3f59fd9",
+									"https://target.scene7.com/is/image/Target/GUEST_26c799d6-a007-4f82-b874-eb04b197ad55"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_23d09af0-995a-4087-b595-4e014e817ffd_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "231-16-0019",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Silk Shelf-Stable Vanilla Almond Milk - 6ct/8 fl oz Boxes",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Tree Nuts, Soy",
+								"<B>Dietary Needs:</B> Gluten Free, Kosher",
+								"<B>Features:</B> No High Fructose Corn Syrup, No Artificial Flavors, No Artificial Colors",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 6",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 48 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"Shelf-stable vanilla almondmilk singles",
+									"0g saturated fat per serving, with no cholesterol",
+									"Provides vitamin E and 50% more calcium than dairy milk",
+									"Vegan",
+									"Non-GMO Project Verified",
+									"Free of dairy, lactose, soy, gluten, casein, egg, and MSG"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1218862"
+							},
+							{
+								"vendor_name": "DANONE US LLC",
+								"id": "1121962"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/silk/-/N-551oe",
+							"linking_id": "551oe",
+							"name": "Silk"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$7.99",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.73,
+								"count": 52,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 4.6
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 5
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 5
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"__typename": "ProductSummary",
+					"tcin": "13307799",
+					"original_tcin": "13307799",
+					"item": {
+						"relationship_type": "Stand Alone",
+						"relationship_type_code": "SA",
+						"merchandise_classification": {
+							"class_id": 6,
+							"department_id": 284
+						},
+						"eligibility_rules": {
+							"add_on": {
+								"is_active": false
+							},
+							"grocery": {
+								"is_active": false
+							},
+							"scheduled_delivery": {
+								"is_active": true
+							}
+						},
+						"enrichment": {
+							"buy_url": "https://www.target.com/p/almond-breeze-unsweetened-vanilla-almond-milk-0-5gal/-/A-13307799",
+							"images": {
+								"primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_aea3ffd9-40bb-4ebe-b99b-141ebdf654ae",
+								"alternate_image_urls": [
+									"https://target.scene7.com/is/image/Target/GUEST_cd8ede37-4812-4923-90a1-7c83c6470afa",
+									"https://target.scene7.com/is/image/Target/GUEST_afb6f056-6d4a-423f-be6c-96270b86c937",
+									"https://target.scene7.com/is/image/Target/GUEST_aee5cac3-3bab-4f9d-8027-061827baef30",
+									"https://target.scene7.com/is/image/Target/GUEST_c392f805-5d51-4173-b15c-f94ae9fac2d8"
+								]
+							},
+							"videos": [
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_040b3012-c448-4f21-830f-c7f4e7057cf7_Flash9_Autox720p_2600k"
+										}
+									]
+								},
+								{
+									"is_list_page_eligible": false,
+									"video_files": [
+										{
+											"mime_type": "video/mp4",
+											"video_url": "https://target.scene7.com/is/content/Target/GUEST_ee9d052f-1ea7-49d7-88b5-fe16575d5134_Flash9_Autox720p_2600k"
+										}
+									]
+								}
+							]
+						},
+						"compliance": {
+							"is_snap_eligible": true
+						},
+						"dpci": "284-06-0059",
+						"cart_add_on_threshold": 35,
+						"product_description": {
+							"title": "Almond Breeze Unsweetened Vanilla Almond Milk - 0.5gal",
+							"bullet_descriptions": [
+								"<B>Contains:</B> Almonds",
+								"<B>May Contain:</B> Soy",
+								"<B>Dietary Needs:</B> Gluten Free, Cholesterol Free, Kosher",
+								"<B>Features:</B> Lactose Free, Dairy Free, No Added Sugar, Soy-Free, Does Not Contain Egg",
+								"<B>Form:</B> Liquid",
+								"<B>State of Readiness:</B> Ready to Drink",
+								"<B>Package Quantity:</B> 1",
+								"<B>Milk source:</B> Almond",
+								"<B>Net weight:</B> 64 fl oz (US)",
+								"<B>Beverage container material:</B> Paper or Cardboard"
+							],
+							"soft_bullets": {
+								"bullets": [
+									"- Made with real California almonds",
+									"- Free from Dairy, Soy and Lactose",
+									"- Excellent source of vitamins D & E",
+									"- 50% More Calcium than Milk",
+									"- Non-GMO Project Verified"
+								]
+							}
+						},
+						"product_vendors": [
+							{
+								"vendor_name": "C & S HAWAII",
+								"id": "1256646"
+							},
+							{
+								"vendor_name": "HP HOOD LLC - DFD",
+								"id": "1217070"
+							},
+							{
+								"vendor_name": "STORE ONLY DUMMY VENDOR",
+								"id": "1213676"
+							},
+							{
+								"vendor_name": "C & S WHOLESALE GROCERS",
+								"id": "1142161"
+							},
+							{
+								"vendor_name": "MCLANE COMPANY INC",
+								"id": "1125528"
+							},
+							{
+								"vendor_name": "SUPERVALU NATIONAL",
+								"id": "1034800"
+							}
+						],
+						"fulfillment": {},
+						"primary_brand": {
+							"canonical_url": "/b/almond-breeze/-/N-kirbx",
+							"linking_id": "kirbx",
+							"name": "Almond Breeze"
+						}
+					},
+					"promotions": [],
+					"price": {
+						"formatted_current_price": "$3.99",
+						"formatted_current_price_type": "reg",
+						"location_id": 3280
+					},
+					"ratings_and_reviews": {
+						"statistics": {
+							"rating": {
+								"average": 4.83,
+								"count": 150,
+								"secondary_averages": [
+									{
+										"id": "Value",
+										"label": "value",
+										"value": 5
+									},
+									{
+										"id": "Quality",
+										"label": "quality",
+										"value": 4.86
+									},
+									{
+										"id": "Taste",
+										"label": "taste",
+										"value": 4.86
+									}
+								]
+							}
+						}
+					}
+				}
+			]
+		}
+	}
+}

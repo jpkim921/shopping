@@ -1,0 +1,24 @@
+{% extends 'base.html' %} {% block results %}
+
+<div class="container">
+  <h2>Results</h2>
+  <div>
+    <form action="" method="POST">
+      <div class="row">
+        <input class="form-control text-center" type="text" name="searchtext" />
+      </div>
+      <div class="input-group">
+        <input type="submit" value="Enter" />
+      </div>
+    </form>
+  </div>
+  <div>
+    <ul>
+      {% for result in context['target'] %}
+      <li>{{ result['item']['product_description']['title'] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% endblock %}
