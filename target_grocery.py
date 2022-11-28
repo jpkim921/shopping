@@ -44,7 +44,7 @@ class Target:
 
     def mock_search(self, search_keyword: None):
         print("data from mock")
-        with open("test.json", "r") as f:
+        with open("target_mock.json", "r") as f:
             response = json.load(f)
             return response['data']['search']['products']
 
