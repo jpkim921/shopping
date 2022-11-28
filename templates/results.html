@@ -12,10 +12,18 @@
       </div>
     </form>
   </div>
-  <div>
+  <div style="border: 1px solid #E80018; background-color: #f64254;">
+  <!-- <div style="border: 1px solid #f64254"> -->
     <ul>
       {% for result in context['target'] %}
       <li>{{ result['item']['product_description']['title'] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div style="border: 1px solid #006F46; background-color: #25cb8e;">
+    <ul>
+      {% for result in context['wholefoods'] %}
+      <li>{{ result['name'] }}</li>
       {% endfor %}
     </ul>
   </div>

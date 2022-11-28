@@ -22,21 +22,16 @@ class Wholefoods:
         keyword = self.convert_to_keyword(search_keyword)
         url = self.get_url(keyword)
         response = (requests.get(url)).json()
-        return response['data']['search']['products']
+        return response['pageProps']['data']['results']
 
     def mock_search(self, search_keyword: None):
-        print("data from mock")
+        print("MOCK DATA")
         with open("wholefoods_mock.json", "r") as f:
             response = json.load(f)
             return response['pageProps']['data']['results']
 
 
-wf = Wholefoods()
-# print(target.convert_to_keyword('almond milk'))
-# print(target.convert_to_keyword('eggs'))
-# url = wf.get_url(keyword="almond+milk")
-# print(url)
-# res = target.get_search("almond milk")
-res = wf.mock_search("almond+milk")
-# import pprint
-print(res)
+# wf = Wholefoods()
+# res = wf.get_search("almond milk")
+# res = wf.mock_search("almond+milk")
+# print(res)

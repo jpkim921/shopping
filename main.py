@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template
 from target_grocery import Target
+from wholefoods import Wholefoods
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -10,14 +11,14 @@ def index():
     if request.method == "POST":
         search_keyword = request.form['searchtext']
         target = Target()
+        wf = Wholefoods()
         # target_results = target.get_search(search_keyword)
         target_results = target.mock_search(search_keyword)
-
-        # pp.pprint(target_results[0]['item'])
-        # pp.pprint(target_results[0]['item']['product_description']['title'])
+        wf_results = wf.mock_search(search_keyword)
 
         context = {
-            "target": target_results
+            "target": target_results,
+            "wholefoods": wf_results
         }
 
         # print("context")

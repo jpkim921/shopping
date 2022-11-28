@@ -10,14 +10,14 @@
                         {
                             "label": "All Search Results",
                             "slug": "all-products",
-                            "count": 44,
+                            "count": 35,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Dairy & Eggs",
                             "slug": "dairy-eggs",
-                            "count": 32,
+                            "count": 27,
                             "isSelected": false,
                             "disabled": false,
                             "refinements": [
@@ -31,14 +31,14 @@
                                 {
                                     "label": "Dairy Alternatives",
                                     "slug": "dairy-alternatives",
-                                    "count": 32,
+                                    "count": 27,
                                     "isSelected": false,
                                     "disabled": false,
                                     "refinements": [
                                         {
                                             "label": "Almond",
                                             "slug": "almond",
-                                            "count": 11,
+                                            "count": 9,
                                             "isSelected": false,
                                             "disabled": false
                                         }
@@ -47,23 +47,7 @@
                                 {
                                     "label": "Milk & Cream",
                                     "slug": "milk-cream",
-                                    "count": 6,
-                                    "isSelected": false,
-                                    "disabled": false
-                                }
-                            ]
-                        },
-                        {
-                            "label": "Pantry Essentials",
-                            "slug": "pantry-essentials",
-                            "count": 1,
-                            "isSelected": false,
-                            "disabled": false,
-                            "refinements": [
-                                {
-                                    "label": "Pasta & Noodles",
-                                    "slug": "pasta-noodles",
-                                    "count": 1,
+                                    "count": 7,
                                     "isSelected": false,
                                     "disabled": false
                                 }
@@ -72,14 +56,14 @@
                         {
                             "label": "Frozen Foods",
                             "slug": "frozen-foods",
-                            "count": 2,
+                            "count": 1,
                             "isSelected": false,
                             "disabled": false,
                             "refinements": [
                                 {
                                     "label": "Frozen Entrées & Appetizers",
                                     "slug": "frozen-entrees-appetizers",
-                                    "count": 2,
+                                    "count": 1,
                                     "isSelected": false,
                                     "disabled": false
                                 }
@@ -88,14 +72,14 @@
                         {
                             "label": "Snacks, Chips, Salsas & Dips",
                             "slug": "snacks-chips-salsas-dips",
-                            "count": 5,
+                            "count": 6,
                             "isSelected": false,
                             "disabled": false,
                             "refinements": [
                                 {
                                     "label": "Candy & Chocolate",
                                     "slug": "candy-chocolate",
-                                    "count": 5,
+                                    "count": 6,
                                     "isSelected": false,
                                     "disabled": false
                                 }
@@ -104,48 +88,16 @@
                         {
                             "label": "Beverages",
                             "slug": "beverages",
-                            "count": 11,
+                            "count": 7,
                             "isSelected": false,
                             "disabled": false,
                             "refinements": [
                                 {
                                     "label": "Coffee",
                                     "slug": "coffee",
-                                    "count": 2,
-                                    "isSelected": false,
-                                    "disabled": false
-                                },
-                                {
-                                    "label": "Tea",
-                                    "slug": "tea",
                                     "count": 1,
                                     "isSelected": false,
                                     "disabled": false
-                                }
-                            ]
-                        },
-                        {
-                            "label": "Wine, Beer & Spirits",
-                            "slug": "wine-beer-spirits",
-                            "count": 1,
-                            "isSelected": false,
-                            "disabled": false,
-                            "refinements": [
-                                {
-                                    "label": "Spirits",
-                                    "slug": "spirits",
-                                    "count": 1,
-                                    "isSelected": false,
-                                    "disabled": false,
-                                    "refinements": [
-                                        {
-                                            "label": "Liquers",
-                                            "slug": "liqueurs",
-                                            "count": 1,
-                                            "isSelected": false,
-                                            "disabled": false
-                                        }
-                                    ]
                                 }
                             ]
                         }
@@ -157,9 +109,23 @@
                     "type": "multi-select",
                     "refinements": [
                         {
+                            "label": "Sales & Deals",
+                            "slug": "on-sale",
+                            "count": 5,
+                            "isSelected": false,
+                            "disabled": false
+                        },
+                        {
                             "label": "365 by Whole Foods Market",
                             "slug": "365-by-whole-foods-market",
                             "count": 5,
+                            "isSelected": false,
+                            "disabled": false
+                        },
+                        {
+                            "label": "Local",
+                            "slug": "local",
+                            "count": 1,
                             "isSelected": false,
                             "disabled": false
                         },
@@ -187,63 +153,63 @@
                         {
                             "label": "Vegan",
                             "slug": "vegan",
-                            "count": 29,
+                            "count": 23,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Gluten-Free",
                             "slug": "gluten-free",
-                            "count": 12,
+                            "count": 10,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Keto-Friendly",
                             "slug": "keto-friendly",
-                            "count": 19,
+                            "count": 17,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Vegetarian",
                             "slug": "vegetarian",
-                            "count": 34,
+                            "count": 27,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Organic",
                             "slug": "organic",
-                            "count": 13,
+                            "count": 7,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Dairy-Free",
                             "slug": "dairy-free",
-                            "count": 36,
+                            "count": 29,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Sugar-Conscious",
                             "slug": "sugar-conscious",
-                            "count": 18,
+                            "count": 16,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Paleo-Friendly",
                             "slug": "paleo-friendly",
-                            "count": 20,
+                            "count": 15,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Whole Foods Diet",
                             "slug": "whole-foods-diet",
-                            "count": 19,
+                            "count": 13,
                             "isSelected": false,
                             "disabled": false
                         },
@@ -257,21 +223,21 @@
                         {
                             "label": "Kosher",
                             "slug": "kosher",
-                            "count": 32,
+                            "count": 30,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Low-Fat",
                             "slug": "low-fat",
-                            "count": 9,
+                            "count": 8,
                             "isSelected": false,
                             "disabled": false
                         },
                         {
                             "label": "Engine 2",
                             "slug": "engine-2",
-                            "count": 2,
+                            "count": 3,
                             "isSelected": false,
                             "disabled": false
                         }
@@ -281,343 +247,367 @@
             "breadcrumb": [],
             "results": [
                 {
-                    "name": "Vanilla Almond Milk Creamer, 25.4 fl oz",
-                    "slug": "califia-farms-vanilla-almond-milk-creamer-254-fl-oz-b06vvhr17w",
-                    "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e1395e7b1d1a1be069eef96_upc-00813636020447-glamor-frontpackageglamor-2019-03-28t19-33-10-bdf9bf1b-29a0-47ea-b3a9-5b6361d2f76b.jpg",
-                    "store": 10225
+                    "regularPrice": 7.79,
+                    "name": "Unsweetened Almond Milk, 32 fl oz",
+                    "slug": "elmhurst-unsweetened-almond-milk-32-fl-oz-b07hfjj49p",
+                    "brand": "Elmhurst",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f64bcd7d5a6e3e810d6ae2b_00018944001021-glamor-frontpackageglamor-2020-09-15t14-41-33-iphone-7-quality-90-1-21-1-user-5c4f16e4fc9c91accd101ce4-0dgu-024378.jpg",
+                    "store": 10518,
+                    "isLocal": true
                 },
                 {
+                    "regularPrice": 3.69,
                     "name": "Unsweetened Original Almond Milk",
                     "slug": "blue-diamond-unsweetened-original-almond-milk-b00ftbti3u",
                     "brand": "Blue Diamond",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6185c78a3d70c76c67680656_0041570056707-glamor-front-2021-10-14t00-38-22-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-n8mw-482992.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Unsweetened Almond Milk, 48 fl oz",
-                    "slug": "califia-farms-unsweetened-almond-milk-48-fl-oz-b00iz6p9h0",
-                    "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/623a76bfbb90953e5417d40e_0852909003305-glamor-front-2022-03-07t19-15-24-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-uwat-982673.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Unsweetened Almond Milk, 32 fl oz",
-                    "slug": "califia-farms-unsweetened-almond-milk-32-fl-oz-b084dvzjgg",
-                    "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62e08d20a745710b4926d59e_0813636021659-glamor-front-2022-06-30t15-19-29-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-dlz6-692334.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Organic Chai Spice Almond Milk, 11 fl oz",
-                    "slug": "pop-and-bottle-organic-chai-spice-almond-milk-11-fl-oz-b07b8szjmz",
-                    "brand": "POP AND BOTTLE",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e3460900e0090d386296248_dld-00868806000033-glamor-frontpackageglamor-2019-12-12t18-50-38-iphone-7-quality-90-1-20-0-user-5c4f16e4fc9c91accd101ce4-ke5g-011346-1580490894680.jpg",
-                    "store": 10225
-                },
-                {
+                    "regularPrice": 2.29,
                     "name": "Artisan Almond Milk Strawberry Yogurt, 5.3 ounce",
                     "slug": "kite-hill-artisan-almond-milk-strawberry-yogurt-53-ounce-b06vv87wdj",
                     "brand": "Kite Hill",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5de977404c4c2f296da5e013_kelly-behr-00856624004142-c1c1.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Organic Cacao Almond Milk, 11 fl oz",
-                    "slug": "pop-and-bottle-organic-cacao-almond-milk-11-fl-oz-b07x2ryjf9",
-                    "brand": "POP AND BOTTLE",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e13c160f85e7ebe214c7761_upc-00868806000026-glamor-frontpackageglamor-2019-10-29t15-09-51-b68ccc23-9edc-40e3-8e9d-9d34119ef68a.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Black Sesame Almond Milk, 28 fl oz",
-                    "slug": "three-trees-black-sesame-almond-milk-28-fl-oz-b07qjl5gyp",
-                    "brand": "Three Trees",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/606b4dd52b575653f14495f5_859918004286-main.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Unsweetened Original Almond Milk, 96 fl oz",
-                    "slug": "blue-diamond-unsweetened-original-almond-milk-96-fl-oz-b01gt9ms3m",
-                    "brand": "Blue Diamond",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5cdd19e159433a1c26ea1857_upc-00041570110195-glamor-frontpackageglamor-2019-04-12t18-34-52-1ec1b77f-96c4-4ad5-b095-8074c9de8407.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Almande Almond Milk Liqueur, 750 ml",
-                    "slug": "baileys-almande-almond-milk-liqueur-750-ml-b06xry977w",
-                    "brand": "Bailey's",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5ce752aa805d3fc09a29eeb6_upc-00082000776284-glamor-frontpackageglamor-2019-04-05t15-26-21-19cfa137-6e06-4770-85ff-e22200070029.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Unsweetened Vanilla Almond Milk, 48 fl oz",
-                    "slug": "califia-farms-unsweetened-vanilla-almond-milk-48-fl-oz-b00lgwf8v2",
+                    "regularPrice": 5.29,
+                    "name": "Vanilla Almond Milk Creamer, 25.4 fl oz",
+                    "slug": "califia-farms-vanilla-almond-milk-creamer-254-fl-oz-b06vvhr17w",
                     "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62c91d84f4ace73ff60bba27_0852909003695-glamor-front-2022-03-22t15-17-37-iphone-7-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-f9cq-845336.jpg",
-                    "store": 10225
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e1395e7b1d1a1be069eef96_upc-00813636020447-glamor-frontpackageglamor-2019-03-28t19-33-10-bdf9bf1b-29a0-47ea-b3a9-5b6361d2f76b.jpg",
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Toasted Coconut Almond Milk, 48 fl oz",
-                    "slug": "califia-farms-toasted-coconut-almond-milk-48-fl-oz-b00uusx5oa",
-                    "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b776627ac6613630ffdda_dld-0852909003428-glamor-front-2022-03-07t19-17-23-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-xrah-472059-1649112931930.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Creamy Original Almond Milk, 48 fl oz",
-                    "slug": "califia-farms-creamy-original-almond-milk-48-fl-oz-b00iz6p99s",
-                    "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b776127ac6613630ffdba_dld-0852909003299-glamor-front-2022-03-07t19-10-16-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-9z1n-187955-1649112926389.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Unsweetened Almond Milk Creamer, 25.4 fl oz",
-                    "slug": "califia-farms-unsweetened-almond-milk-creamer-254-fl-oz-b06x922khy",
-                    "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/613f8737e11bfde36015e246_dld-0813636020423-glamor-front-2021-08-18t17-43-49-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-64qc-942183-1631553335605.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Unsweetened Vanilla Almond Milk, 32 fl oz",
-                    "slug": "califia-farms-unsweetened-vanilla-almond-milk-32-fl-oz-b0849hfm7w",
-                    "brand": "Califia Farms",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62e08d12a745710b4926d520_0813636022335-glamor-front-2022-06-30t15-20-27-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-jkc9-532302.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Organic Chai Spice Almond Milk, 11 fl oz",
-                    "slug": "pop-and-bottle-organic-chai-spice-almond-milk-11-fl-oz-b09tbgf3rl",
-                    "brand": "POP AND BOTTLE",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/613f8a1ee11bfde36015f6c6_dld-0868806000033-glamor-front-2021-08-19t15-32-22-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-ye8v-911946-1631554077803.jpg",
-                    "store": 10225
-                },
-                {
+                    "regularPrice": 2.69,
                     "name": "Organic Unsweetened Vanilla Almond Milk, 32 fl oz",
                     "slug": "365-by-whole-foods-market-organic-unsweetened-vanilla-almond-milk-32-fl-oz-b07d6v6ldx",
                     "brand": "365 by Whole Foods Market",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f22fbdeef85a0c90b79392c_00099482467043-00099482467043-c1n1.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Barista Almond Milk, 32 fl oz",
-                    "slug": "new-barn-organics-barista-almond-milk-32-fl-oz-b07qd68ln3",
-                    "brand": "New Barn Organics",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6384ef1994272d634118c73c_2022-11-28_17-25-51_Other.main.jpg",
-                    "store": 10225
+                    "regularPrice": 4.99,
+                    "name": "Unsweetened Almond Milk, 48 fl oz",
+                    "slug": "califia-farms-unsweetened-almond-milk-48-fl-oz-b00iz6p9h0",
+                    "brand": "Califia Farms",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/623a76bfbb90953e5417d40e_0852909003305-glamor-front-2022-03-07t19-15-24-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-uwat-982673.jpg",
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 4.99,
                     "name": "Unsweetened Almond Milk, 32 fl oz",
-                    "slug": "new-barn-organics-unsweetened-almond-milk-32-fl-oz-b07q62pkr3",
-                    "brand": "New Barn Organics",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6384ea1b2829b5635613e77e_2022-11-28_17-04-34_Other.main.jpg",
-                    "store": 10225
+                    "slug": "califia-farms-unsweetened-almond-milk-32-fl-oz-b084dvzjgg",
+                    "brand": "Califia Farms",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62e08d20a745710b4926d59e_0813636021659-glamor-front-2022-06-30t15-19-29-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-dlz6-692334.jpg",
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 4.99,
+                    "name": "Unsweetened Vanilla Almond Milk, 48 fl oz",
+                    "slug": "califia-farms-unsweetened-vanilla-almond-milk-48-fl-oz-b00lgwf8v2",
+                    "brand": "Califia Farms",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62c91d84f4ace73ff60bba27_0852909003695-glamor-front-2022-03-22t15-17-37-iphone-7-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-f9cq-845336.jpg",
+                    "store": 10518,
+                    "isLocal": false
+                },
+                {
+                    "regularPrice": 4.99,
+                    "name": "Toasted Coconut Almond Milk, 48 fl oz",
+                    "slug": "califia-farms-toasted-coconut-almond-milk-48-fl-oz-b00uusx5oa",
+                    "brand": "Califia Farms",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b776627ac6613630ffdda_dld-0852909003428-glamor-front-2022-03-07t19-17-23-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-xrah-472059-1649112931930.jpg",
+                    "store": 10518,
+                    "isLocal": false
+                },
+                {
+                    "regularPrice": 4.99,
+                    "name": "Creamy Original Almond Milk, 48 fl oz",
+                    "slug": "califia-farms-creamy-original-almond-milk-48-fl-oz-b00iz6p99s",
+                    "brand": "Califia Farms",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b776127ac6613630ffdba_dld-0852909003299-glamor-front-2022-03-07t19-10-16-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-9z1n-187955-1649112926389.jpg",
+                    "store": 10518,
+                    "isLocal": false
+                },
+                {
+                    "regularPrice": 7.49,
                     "name": "Vanilla Bean Almond Milk, 28 fl oz",
                     "slug": "three-trees-vanilla-bean-almond-milk-28-fl-oz-b07qhbm1y3",
                     "brand": "Three Trees",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62046659512fef47d2b5e87e_0859918004262-glamor-front-2022-01-24t15-24-23-iphone-7-quality-90-1-26-2-user-5c4f16e4fc9c91accd101ce4-c14j-542715.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 6.29,
                     "name": "Almond Milk Yogurt, 16 oz",
                     "slug": "kite-hill-almond-milk-yogurt-16-oz-b073qls4sb",
                     "brand": "Kite Hill",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6112dfd267833178ee9915a7_dld-0856624004364-glamor-front-2021-03-27t23-48-44-iphone-7-quality-90-1-25-1-user-5c4f16e4fc9c91accd101ce4-2t1q-226018-1628626889462.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 5.29,
+                    "name": "Unsweetened Almond Milk Creamer, 25.4 fl oz",
+                    "slug": "califia-farms-unsweetened-almond-milk-creamer-254-fl-oz-b06x922khy",
+                    "brand": "Califia Farms",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/613f8737e11bfde36015e246_dld-0813636020423-glamor-front-2021-08-18t17-43-49-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-64qc-942183-1631553335605.jpg",
+                    "store": 10518,
+                    "isLocal": false
+                },
+                {
+                    "regularPrice": 2.29,
                     "name": "Artisan Almond Milk Vanilla Yogurt, 5.3 oz",
                     "slug": "kite-hill-artisan-almond-milk-vanilla-yogurt-53-oz-b06zzcr5nj",
                     "brand": "Kite Hill",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/613f893ee11bfde36015eed0_dld-0856624004128-glamor-front-2021-08-18t22-25-19-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-z1j5-780244-1631553852826.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 3.99,
                     "name": "Organic Vanilla Bean Almond Milk, 11 fl oz",
                     "slug": "pop-and-bottle-organic-vanilla-bean-almond-milk-11-fl-oz-b01n3775cw",
                     "brand": "POP AND BOTTLE",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62f59eb628b1c014e854317f_0868806000040-glamor-front-2022-08-03t19-59-26-iphone-x-quality-90-1-31-0-user-5984ad42a967f880524de2c4-xn63-234891.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 4.99,
+                    "name": "Unsweetened Vanilla Almond Milk, 32 fl oz",
+                    "slug": "califia-farms-unsweetened-vanilla-almond-milk-32-fl-oz-b0849hfm7w",
+                    "brand": "Califia Farms",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62e08d12a745710b4926d520_0813636022335-glamor-front-2022-06-30t15-20-27-iphone-x-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-jkc9-532302.jpg",
+                    "store": 10518,
+                    "isLocal": false
+                },
+                {
+                    "regularPrice": 4.29,
                     "name": "Organic Unsweetened Almond Milk, 96 fl oz",
                     "slug": "365-by-whole-foods-market-organic-unsweetened-almond-milk-96-fl-oz-b08tsqr1cs",
                     "brand": "365 by Whole Foods Market",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6204650d512fef47d2b5e112_0099482512552-glamor-front-2022-01-24t18-45-29-iphone-7-quality-90-1-26-2-user-5c4f16e4fc9c91accd101ce4-b2bf-913616.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 5.29,
                     "name": "Cookie Butter Almond Milk, 25.4 fl oz",
                     "slug": "califia-farms-cookie-butter-almond-milk-254-fl-oz-b09kvvwvxg",
                     "brand": "Califia Farms",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/636570056fd1f0505087c92a_00813636023028-c1c1.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Unsweetened Vanilla Almond Milk, 32 fl oz",
-                    "slug": "new-barn-organics-unsweetened-vanilla-almond-milk-32-fl-oz-b07q9fd749",
-                    "brand": "New Barn Organics",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6384ee44f29f40634fed4de5_2022-11-28_17-22-34_Other.main.jpg",
-                    "store": 10225
-                },
-                {
+                    "regularPrice": 10.99,
                     "name": "Artisan Almond Milk Ricotta, 8 oz",
                     "slug": "kite-hill-artisan-almond-milk-ricotta-8-oz-b06wd3f62c",
                     "brand": "Kite Hill",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/624b7b3327ac6613631010c3_dld-0856624004043-glamor-front-2022-03-01t16-11-36-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-hnr7-092763-1649113905873.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 3.49,
                     "name": "Chocolate Almond Milk Pudding 4pk, 3.75 oz cups",
                     "slug": "365-by-whole-foods-market-chocolate-almond-milk-pudding-4pk-375-oz-cups-b07fw264qq",
                     "brand": "365 by Whole Foods Market",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/61390c4b33ec27498b3fec80_0099482468903-glamor-front-2021-08-18t15-27-26-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-4vw3-372394.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 2.29,
                     "name": "Artisan Almond Milk Blueberry Yogurt, 5.3 oz",
                     "slug": "kite-hill-artisan-almond-milk-blueberry-yogurt-53-oz-b06w551btg",
                     "brand": "Kite Hill",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/61390c5333ec27498b3feca6_0856624004135-glamor-front-2021-08-18t22-26-08-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-o6ta-702817.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 2.69,
                     "name": "Organic Unsweetened Chocolate Almond Milk, 32 fl oz",
                     "slug": "365-by-whole-foods-market-organic-unsweetened-chocolate-almond-milk-32-fl-oz-b084df723n",
                     "brand": "365 by Whole Foods Market",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62e08cb1a745710b4926d1ed_0099482493745-glamor-front-2022-06-30t15-38-09-iphone-7-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-gc7j-378073.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Butternut Squash Ravioli With Almond Milk Ricotta, 9 oz",
-                    "slug": "kite-hill-butternut-squash-ravioli-with-almond-milk-ricotta-9-oz-b08cbx2tt5",
-                    "brand": "Kite Hill",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5f863ccda32e3bd5dd1c5699_00856624004883-glamor-frontpackageglamor-2020-10-08t11-56-15-iphone-7-quality-90-1-21-7-user-5da5b1b3afdfaf0fde51f3e1-h0rz-211802.jpg",
-                    "store": 10225
-                },
-                {
+                    "regularPrice": 6.69,
                     "name": "Mini Mocha Almond Fudge Almond Milk Dessert Bars, 2.3 fl oz",
                     "slug": "so-delicious-dairy-free-mini-mocha-almond-fudge-almond-milk-dessert-bars-23-fl-oz-b01n1t6f3p",
                     "brand": "So Delicious Dairy Free",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6143db7d5d1de3130f20b44c_0744473492138-glamor-front-2021-08-24t14-53-10-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-4s8w-810077.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Dairy Free Almond Milk Frozen Dessert Sandwich, Vanilla, Vegan, Non-GMO Project Verified, 8 Pack, 18.4 fl oz",
-                    "slug": "so-delicious-dairy-free-dairy-free-almond-milk-frozen-dessert-sandwich-vanilla-vegan-nongmo-project-verified-8-pack-184-fl-oz-b07895d476",
-                    "brand": "So Delicious Dairy Free",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62d09bfd7be9066b2a3fd846_0744473492114-glamor-front-2022-04-05t13-13-58-iphone-7-quality-90-1-29-0-user-5d7652c1db2c4b51d4c666ca-rrh2-768758.jpg",
-                    "store": 10225
-                },
-                {
-                    "name": "Shift Blend Wholebean Coffee Hazelnut, Milk Chocolate, Browned Almond, 12 ounce",
-                    "slug": "tectonic-coffee-shift-blend-wholebean-coffee-hazelnut-milk-chocolate-browned-almond-12-ounce-b07tl9dwzn",
-                    "brand": "Tectonic Coffee",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/00860001754810_C1C1f.JPG",
-                    "store": 10225
-                },
-                {
+                    "regularPrice": 3.29,
                     "name": "Toffee And Almonds in Milk Chocolate, 3.2 oz",
                     "slug": "chocolove-toffee-and-almonds-in-milk-chocolate-32-oz-b003so8nng",
                     "brand": "Chocolove",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6165dfd49e9f301eb2cd7e4a_dld-0716270001349-glamor-front-2021-08-05t20-14-44-iphone-x-quality-90-1-25-4-user-5984ad42a967f880524de2c4-l46z-393914-1634066385283.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 7.39,
                     "name": "Milk Chocolate Style Covered Almonds, 3.5 oz",
                     "slug": "lilys-milk-chocolate-style-covered-almonds-35-oz-b07q8ngprd",
                     "brand": "Lily's",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/6360499ac5f1fb3dba7655b6_0810003460318-glamor-front-2022-10-17t14-09-16-iphone-7-plus-quality-90-1-32-2-user-5d7652c1db2c4b51d4c666ca-lcsr-468435.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "32% Milk Chocolate Honey Almond Nougat Bar, 6.35 oz",
-                    "slug": "tonys-chocolonely-32-milk-chocolate-honey-almond-nougat-bar-635-oz-b07nsmtnph",
-                    "brand": "Tony's Chocolonely",
-                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e41f01f650b5a0c67ace446_00858010005436-glamor-frontpackageglamor-2020-01-28t17-58-16-iphone-7-quality-90-1-20-1-user-5e2e5dcf50cecee5f0c8fc82-i971-649574.jpg",
-                    "store": 10225
+                    "regularPrice": 6.99,
+                    "salePrice": 5.99,
+                    "incrementalSalePrice": 5.39,
+                    "saleStartDate": "2022-11-16T00:00:00Z",
+                    "saleEndDate": "2022-11-29T23:59:59Z",
+                    "name": "Almond Butter Crunch Milk Chocolate, 2.1 oz",
+                    "slug": "hu-foods-almond-butter-crunch-milk-chocolate-21-oz-2f58k6dd",
+                    "brand": "Hu Foods",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63239d236e7c45708da96208.main.jpg",
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 4.99,
+                    "salePrice": 4.19,
+                    "incrementalSalePrice": 3.77,
+                    "saleStartDate": "2022-11-16T00:00:00Z",
+                    "saleEndDate": "2022-11-29T23:59:59Z",
                     "name": "Limited Edition, Almond Nog, 1 quart",
                     "slug": "365-by-whole-foods-market-limited-edition-almond-nog-1-quart-b07kxmyd81",
                     "brand": "365 by Whole Foods Market",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5fd906993b4f504b5ba559df_5fbd94cafbbe3865abc62c85-00099482475918-front.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 4.99,
+                    "name": "32% Milk Chocolate Honey Almond Nougat Bar, 6.35 oz",
+                    "slug": "tonys-chocolonely-32-milk-chocolate-honey-almond-nougat-bar-635-oz-b07nsmtnph",
+                    "brand": "Tony's Chocolonely",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e41f01f650b5a0c67ace446_00858010005436-glamor-frontpackageglamor-2020-01-28t17-58-16-iphone-7-quality-90-1-20-1-user-5e2e5dcf50cecee5f0c8fc82-i971-649574.jpg",
+                    "store": 10518,
+                    "isLocal": false
+                },
+                {
+                    "regularPrice": 3.29,
                     "name": "Almonds & Sea Salt Milk Chocolate Bar, 3.2 oz",
                     "slug": "chocolove-almonds-sea-salt-milk-chocolate-bar-32-oz-b09rv2brqk",
                     "brand": "Chocolove",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/634707738189c560a56374ff_0716270001370-glamor-front-2022-10-11t18-28-55-iphone-x-quality-90-1-32-2-user-5984ad42a967f880524de2c4-drxh-482824.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 6.99,
+                    "salePrice": 5.99,
+                    "incrementalSalePrice": 5.39,
+                    "saleStartDate": "2022-11-16T00:00:00Z",
+                    "saleEndDate": "2022-11-29T23:59:59Z",
                     "name": "Almond Crunch + Coconut Flakes Milk Chocolate, 2.1 oz",
                     "slug": "hu-foods-almond-crunch-coconut-flakes-milk-chocolate-21-oz-2f5nff75",
                     "brand": "Hu Foods",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/63239d15cffcb0708d5226e4.main.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 4.19,
+                    "salePrice": 3.49,
+                    "incrementalSalePrice": 3.14,
+                    "saleStartDate": "2022-11-16T00:00:00Z",
+                    "saleEndDate": "2022-11-29T23:59:59Z",
                     "name": "Almond + Coconut Creamer Holiday Nog, 11.2 fl oz",
                     "slug": "nut-pods-almond-coconut-creamer-holiday-nog-112-fl-oz-b09cswl8gb",
                     "brand": "Nut Pods",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/617c50422700992d01f5c03a_0859922007716-glamor-front-2021-10-24t21-48-18-iphone-7-quality-90-1-25-4-user-5c4f16e4fc9c91accd101ce4-67a9-828788.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 5.29,
                     "name": "Sour Cream, 12 oz",
                     "slug": "kite-hill-sour-cream-12-oz-b081khxkst",
                     "brand": "Kite Hill",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e6bc06e046aad790a045624_00856624004876-glamor-frontpackageglamor-2020-03-11t16-06-34-iphone-x-quality-90-1-21-1-user-5dc17de060e00edd1f03737a-3a8g-475296.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 6.49,
+                    "salePrice": 5.49,
+                    "incrementalSalePrice": 4.94,
+                    "saleStartDate": "2022-11-16T00:00:00Z",
+                    "saleEndDate": "2022-11-29T23:59:59Z",
                     "name": "Holiday Nog AlmondMilk, 48 fl oz",
                     "slug": "califia-farms-holiday-nog-almondmilk-48-fl-oz-b0184rdejo",
                     "brand": "Califia Farms",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e3460e60e0090d3862964e1_dld-00852909003787-glamor-frontpackageglamor-2019-12-16t15-51-05-iphone-7-quality-90-1-20-0-user-5c4f16e4fc9c91accd101ce4-envf-641047-1580490982170.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
+                    "regularPrice": 6.99,
+                    "name": "Strawberry Cream Cheese, 8 oz",
+                    "slug": "kite-hill-strawberry-cream-cheese-8-oz-b07rdmm4yx",
+                    "brand": "Kite Hill",
+                    "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e7badd5c110e2e554f05caa_00856624004609-glamor-frontpackageglamor-2019-12-06t18-39-24-pixel-3a-quality-90-1-18-1-user-5d7652c1db2c4b51d4c666ca-i6ih-767701.jpg",
+                    "store": 10518,
+                    "isLocal": false
+                },
+                {
+                    "regularPrice": 5.29,
                     "name": "Mint Cocoa Almondmilk Creamer, 25.4 fl oz",
                     "slug": "califia-farms-mint-cocoa-almondmilk-creamer-254-fl-oz-b075f3mxvn",
                     "brand": "Califia Farms",
                     "imageThumbnail": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e05cda10e309f3fc273801f_dld-00813636020867-glamor-frontpackageglamor-2019-12-04t19-20-07-iphone-7-quality-90-1-18-1-user-5da5b1b3afdfaf0fde51f3e1-yneu-233815-1577438625301.jpg",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 }
             ],
             "miniResults": [
                 {
-                    "name": "Almond Milk Ricotta",
-                    "slug": "kite-hill-almond-milk-ricotta-b09t7jjpcj",
-                    "brand": "Kite Hill",
-                    "store": 10225
-                },
-                {
+                    "regularPrice": 9.99,
+                    "salePrice": 7.99,
+                    "incrementalSalePrice": 7.19,
+                    "saleStartDate": "2022-11-16T00:00:00Z",
+                    "saleEndDate": "2022-11-29T23:59:59Z",
                     "name": "Whipped Almond Milk Ricotta",
                     "slug": "kite-hill-whipped-almond-milk-ricotta-2f580gl9",
                     "brand": "Kite Hill",
-                    "store": 10225
+                    "store": 10518,
+                    "isLocal": false
                 },
                 {
-                    "name": "Black Cherry Almond Milk Yogurt",
-                    "slug": "kite-hill-black-cherry-almond-milk-yogurt-b09mgsrqbd",
-                    "brand": "Kite Hill",
-                    "store": 10225
-                },
-                {
-                    "name": "Milk Chocolate Coconut Double Dipped Almonds",
-                    "slug": "choczero-milk-chocolate-coconut-double-dipped-almonds-b0b5ycq8rd",
-                    "brand": "Choczero",
-                    "store": 10225
+                    "regularPrice": 10.79,
+                    "name": "Milk Chocolate Almonds",
+                    "slug": "whole-foods-market-milk-chocolate-almonds-b079lfy6h2",
+                    "brand": "Whole Foods Market",
+                    "store": 10518,
+                    "isLocal": false,
+                    "uom": "lb"
                 }
             ],
             "meta": {
                 "total": {
-                    "value": 44,
+                    "value": 35,
                     "relation": "EQUAL_TO"
                 },
                 "state": {

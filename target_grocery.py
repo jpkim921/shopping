@@ -50,11 +50,7 @@ class Target:
 
 
 # target = Target()
-# print(target.convert_to_keyword('almond milk'))
-# print(target.convert_to_keyword('eggs'))
-# url = target.get_url(keyword="eggs")
-# print(url)
 # res = target.get_search("almond milk")
-# res = target.mock_search("almond+milk")
-# import pprint
-# print(res[0])
+# # res = target.mock_search("almond+milk")
+
+# print(res)
