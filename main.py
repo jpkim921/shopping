@@ -13,6 +13,9 @@ def index():
         target = Target()
         wf = Wholefoods()
         # target_results = target.get_search(search_keyword)
+
+        # NOTE: need to add in 0 search/wrong search condition
+
         target_results = target.mock_search(search_keyword)
         wf_results = wf.mock_search(search_keyword)
 
