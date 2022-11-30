@@ -9,17 +9,24 @@ app = Flask(__name__)
 @app.route("/", methods=['GET', 'POST'])
 def index():
     if request.method == "POST":
+        
+        target_results = []
+        wf_results = []
+
         search_keyword = request.form['searchtext']
         target = Target()
         wf = Wholefoods()
         # target_results = target.get_search(search_keyword)
 
         # NOTE: need to add in 0 search/wrong search condition
-
-        target_results = target.get_search(search_keyword)
-        wf_results = wf.get_search(search_keyword)
-        # target_results = target.mock_search(search_keyword)
-        # wf_results = wf.mock_search(search_keyword)
+        
+        try:
+            # target_results = target.get_search(search_keyword)
+            # wf_results = wf.get_search(search_keyword)
+            target_results = target.mock_search(search_keyword)
+            wf_results = wf.mock_search(search_keyword)
+        except Exception as e:
+            print(f"Error: {e}")
 
         context = {
             "target": target_results,

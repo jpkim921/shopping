@@ -48,7 +48,7 @@ class Wholefoods:
             return products
 
 
-wf = Wholefoods()
-res = wf.get_search("dog food")
-# res = wf.mock_search("almond+milk")
-print(res)
+# wf = Wholefoods()
+# res = wf.get_search("dog food")
+# # res = wf.mock_search("almond+milk")
+# print(res)

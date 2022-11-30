@@ -14,9 +14,8 @@
   </div>
   <div id="tabs_container">
     <ul class="nav nav-tabs" id="store_tabs" role="tablist">
-    {% for store in context.keys() %}
-    
-    <!-- Nav tabs -->
+      {% for store in context.keys() %}    
+      <!-- Nav tabs -->
       <li class="nav-item" role="presentation">
         <button class="nav-link {{ 'active' if loop.index0==0 else ''}}" id="{{store}}-tab" data-bs-toggle="tab" data-bs-target="#{{store}}" type="button" role="tab" aria-controls="{{store}}" aria-selected="true">{{store}}</button>
       </li>
@@ -28,13 +27,13 @@
       {% for store in context.keys() %}    
         <div class="tab-pane {{ 'active' if loop.index0==0 else ''}}" id="{{store}}" role="tabpanel" aria-labelledby="{{store}}-tab" tabindex="0">
           {% for product in context[store] %}     
-          <div class="card" style="width: 18rem;">
-            <img src="{{product['image']}}" class="card-img-top" alt="...">
-            <div class="card-body">
-              <a href="{{product['buy_url']}}" class="btn btn-primary"><h5 class="card-title">{{product['title']}}</h5></a>
-              <h5 class="card-price">{{product['price']}}</h5>
+            <div class="card" style="width: 18rem;">
+              <img src="{{product['image']}}" class="card-img-top" alt="Image for {{product['title']}}">
+              <div class="card-body">
+                <h5 class="card-title"><a href="{{product['buy_url']}}" class="btn btn-primary">{{product['title']}}</a></h5>
+                <h5 class="card-price">{{product['price']}}</h5>
+              </div>
             </div>
-          </div>
           {% endfor %}
         </div>
       {% endfor %}
