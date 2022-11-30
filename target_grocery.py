@@ -40,17 +40,34 @@ class Target:
         keyword = self.convert_to_keyword(search_keyword)
         url = self.get_url(keyword)
         response = (requests.get(url)).json()
-        return response['data']['search']['products']
+        products_data = response['data']['search']['products']
+        products = self.format_data(products_data)
+        return products
+    
+    def format_data(self, products_data):
+        products = []
+        for product in products_data:
+            item = {
+                "buy_url": product['item']['enrichment']['buy_url'],
+                "image": product['item']['enrichment']['images']['primary_image_url'],
+                'title': product['item']['product_description']['title'],
+                'price': product['price']['formatted_current_price']
+            }
+            products.append(item)
+        return products  
+
 
     def mock_search(self, search_keyword: None):
-        print("data from mock")
+        print("MOCK DATA")
         with open("target_mock.json", "r") as f:
             response = json.load(f)
-            return response['data']['search']['products']
+            products_data = response['data']['search']['products']
+            # print(products_data)
+            products = self.format_data(products_data)
+            return products
 
 
 # target = Target()
 # res = target.get_search("almond milk")
-# # res = target.mock_search("almond+milk")
-
+# res = target.mock_search("almond+milk")
 # print(res)

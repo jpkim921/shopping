@@ -22,13 +22,29 @@ class Wholefoods:
         keyword = self.convert_to_keyword(search_keyword)
         url = self.get_url(keyword)
         response = (requests.get(url)).json()
-        return response['pageProps']['data']['results']
+        products_data = response['pageProps']['data']['results']
+        products = self.format_data(products_data)
+        return products
+    
+    def format_data(self, products_data):
+        products = []
+        for product in products_data:
+            item = {
+                "buy_url": f"https://www.wholefoodsmarket.com/product/{product['slug']}",
+                "image": product['imageThumbnail'],
+                'title': product['name'],
+                'price': product['regularPrice']
+            }
+            products.append(item)
+        return products  
 
     def mock_search(self, search_keyword: None):
         print("MOCK DATA")
         with open("wholefoods_mock.json", "r") as f:
             response = json.load(f)
-            return response['pageProps']['data']['results']
+            products_data = response['pageProps']['data']['results']
+            products = self.format_data(products_data)
+            return products
 
 
 # wf = Wholefoods()
