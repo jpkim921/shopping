@@ -16,8 +16,10 @@ def index():
 
         # NOTE: need to add in 0 search/wrong search condition
 
-        target_results = target.mock_search(search_keyword)
-        wf_results = wf.mock_search(search_keyword)
+        target_results = target.get_search(search_keyword)
+        wf_results = wf.get_search(search_keyword)
+        # target_results = target.mock_search(search_keyword)
+        # wf_results = wf.mock_search(search_keyword)
 
         context = {
             "target": target_results,

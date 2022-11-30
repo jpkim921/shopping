@@ -26,7 +26,17 @@
     <!-- Tab panes -->
     <div class="tab-content">
       {% for store in context.keys() %}    
-        <div class="tab-pane {{ 'active' if loop.index0==0 else ''}}" id="{{store}}" role="tabpanel" aria-labelledby="{{store}}-tab" tabindex="0">{{store}} results</div>
+        <div class="tab-pane {{ 'active' if loop.index0==0 else ''}}" id="{{store}}" role="tabpanel" aria-labelledby="{{store}}-tab" tabindex="0">
+          {% for product in context[store] %}     
+          <div class="card" style="width: 18rem;">
+            <img src="{{product['image']}}" class="card-img-top" alt="...">
+            <div class="card-body">
+              <a href="{{product['buy_url']}}" class="btn btn-primary"><h5 class="card-title">{{product['title']}}</h5></a>
+              <h5 class="card-price">{{product['price']}}</h5>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
       {% endfor %}
     </div>
 

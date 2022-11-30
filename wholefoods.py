@@ -13,7 +13,8 @@ class Wholefoods:
         pass
         
     def get_url(self, keyword: str) -> str:
-        return f"https://www.wholefoodsmarket.com/_next/data/gA_0Z8pXk88CJBarkJ90-/search.json?text={keyword}"
+        # need to figure out the store keyword situation
+        return f"https://www.wholefoodsmarket.com/_next/data/gA_0Z8pXk88CJBarkJ90-/search.json?text={keyword}&store=10518"
         
     def convert_to_keyword(self, search_keyword: str) -> str:
         return "+".join(search_keyword.split(" "))
@@ -47,7 +48,7 @@ class Wholefoods:
             return products
 
 
-# wf = Wholefoods()
-# res = wf.get_search("almond milk")
+wf = Wholefoods()
+res = wf.get_search("dog food")
 # res = wf.mock_search("almond+milk")
-# print(res)
+print(res)
