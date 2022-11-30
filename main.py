@@ -24,8 +24,6 @@ def index():
             "wholefoods": wf_results
         }
 
-        # print("context")
-        # print(context['target'])
         return render_template('results.html', context=context)
     else:
         return render_template('index.html', context={})
