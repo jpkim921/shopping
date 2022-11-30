@@ -47,12 +47,20 @@ class Target:
     def format_data(self, products_data):
         products = []
         for product in products_data:
+            title: str = product['item']['product_description']['title']
+            
+            if "&#38;" in title:
+                title = title.replace("&#38;", chr(38))
+            if "&#8482;" in title:
+                title = title.replace("&#8482;", chr(8482))
+            
             item = {
                 "buy_url": product['item']['enrichment']['buy_url'],
                 "image": product['item']['enrichment']['images']['primary_image_url'],
-                'title': product['item']['product_description']['title'],
+                'title': title,
                 'price': product['price']['formatted_current_price']
             }
+
             products.append(item)
         return products  
 
