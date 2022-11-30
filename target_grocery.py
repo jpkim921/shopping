@@ -1,4 +1,4 @@
-import pprint
+import re
 
 import json
 import requests
@@ -44,23 +44,29 @@ class Target:
         products = self.format_data(products_data)
         return products
     
+    def replace_char(self, text: str, pattern: str = '(&#(\w*?);)') -> str:
+        """
+            Method to help convert unicode to a character.
+            Specifically for Target's 'Good &#38; Gather&#8482;' but can be used for others.
+
+            '&#38;' -> '&'  
+
+            '&#8482;' -> '™'
+        """
+        groups = re.findall(pattern, text)
+        for group in groups:
+            text = text.replace(group[0], chr(int(group[1])))
+        return text
+
     def format_data(self, products_data):
         products = []
-        for product in products_data:
-            title: str = product['item']['product_description']['title']
-            
-            if "&#38;" in title:
-                title = title.replace("&#38;", chr(38))
-            if "&#8482;" in title:
-                title = title.replace("&#8482;", chr(8482))
-            
+        for product in products_data:           
             item = {
                 "buy_url": product['item']['enrichment']['buy_url'],
                 "image": product['item']['enrichment']['images']['primary_image_url'],
-                'title': title,
+                'title': self.replace_char(product['item']['product_description']['title']),
                 'price': product['price']['formatted_current_price']
             }
-
             products.append(item)
         return products  
 
