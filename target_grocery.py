@@ -34,6 +34,7 @@ class Target:
         return f"https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key={self.key}&channel={self.channel}&count={self.count}&keyword={keyword}&offset={self.offset}&page={page}&pricing_store_id={self.pricing_store_id}&visitor_id={self.visitor_id}"
     
     def convert_to_keyword(self, search_keyword: str) -> str:
+        # TODO: use urllib.parse.quote_plus to replace it instead of using join like below
         return "+".join(search_keyword.split(" "))
 
     def get_search(self, search_keyword: str) -> list[dict]:
