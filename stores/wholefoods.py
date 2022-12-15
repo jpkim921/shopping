@@ -41,7 +41,7 @@ class Wholefoods:
 
     def mock_search(self, search_keyword: None):
         print("MOCK DATA")
-        with open("wholefoods_mock.json", "r") as f:
+        with open("stores/mocks/wholefoods_mock.json", "r") as f:
             response = json.load(f)
             products_data = response['pageProps']['data']['results']
             products = self.format_data(products_data)

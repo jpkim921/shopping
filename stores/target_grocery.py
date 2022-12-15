@@ -74,7 +74,7 @@ class Target:
 
     def mock_search(self, search_keyword: None):
         print("MOCK DATA")
-        with open("target_mock.json", "r") as f:
+        with open("stores/mocks/target_mock.json", "r") as f:
             response = json.load(f)
             products_data = response['data']['search']['products']
             # print(products_data)
@@ -83,6 +83,6 @@ class Target:
 
 
 # target = Target()
-# res = target.get_search("almond milk")
+# # res = target.get_search("almond milk")
 # res = target.mock_search("almond+milk")
 # print(res)

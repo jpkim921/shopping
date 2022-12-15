@@ -69,7 +69,7 @@ class Cvs:
         return products
 
     def get_mock_html(self):
-        with open('cvs_mock.html', 'r') as f:
+        with open('stores/mocks/cvs_mock.html', 'r') as f:
             data = f.read()
             return data
 

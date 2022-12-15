@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from bs4.element import Tag
 
 def mock_html_response():
-    with open('walmart_mock.html', 'r') as f:
+    with open('stores/mocks/walmart_mock.html', 'r') as f:
         return BeautifulSoup(f.read(), 'html.parser')
 
 # soup = BeautifulSoup(mock_html_response(), 'html.parser')

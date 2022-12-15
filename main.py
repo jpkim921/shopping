@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template
-from target_grocery import Target
-from wholefoods import Wholefoods
-from cvs_grocery import Cvs
+from stores.target_grocery import Target
+from stores.wholefoods import Wholefoods
+from stores.cvs_grocery import Cvs
 
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
@@ -16,13 +16,14 @@ def index():
         wf_results = []
 
         search_keyword = request.form['searchtext']
+
         target = Target()
         wf = Wholefoods()
         cvs = Cvs()
 
         # NOTE: need to add in 0 search/wrong search condition
         
-        dev_mode = False
+        dev_mode = True # TODO: try to add a command line arg when running flask to toggle this
         try:
             if dev_mode:
                 target_results = target.mock_search(search_keyword)
